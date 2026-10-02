@@ -1,0 +1,11200 @@
+{
+ "sample_id": "chula_102",
+ "label": "Chula RBC-12 image 102",
+ "image_path": "data/samples/chula_102/image.png",
+ "pixel_size_um": null,
+ "source": "public_dataset",
+ "provenance": "MEASURED",
+ "segmentation_method": "otsu_fill_watershed",
+ "cells": [
+  {
+   "cell_id": "c001",
+   "centroid_px": [
+    23.5,
+    16.1
+   ],
+   "bbox_px": [
+    5,
+    2,
+    38,
+    31
+   ],
+   "contour_px": [
+    [
+     11,
+     2
+    ],
+    [
+     8,
+     5
+    ],
+    [
+     5,
+     12
+    ],
+    [
+     5,
+     18
+    ],
+    [
+     8,
+     23
+    ],
+    [
+     7,
+     25
+    ],
+    [
+     12,
+     30
+    ],
+    [
+     17,
+     32
+    ],
+    [
+     28,
+     32
+    ],
+    [
+     35,
+     29
+    ],
+    [
+     40,
+     23
+    ],
+    [
+     42,
+     18
+    ],
+    [
+     42,
+     11
+    ],
+    [
+     39,
+     4
+    ],
+    [
+     37,
+     2
+    ]
+   ],
+   "area": 997.0,
+   "diameter": 35.63,
+   "circularity": 0.967,
+   "pallor_ratio": 0.215,
+   "shape_class": null,
+   "shape_class_source": "none",
+   "excluded": true,
+   "exclusion_reason": "touches_image_border"
+  },
+  {
+   "cell_id": "c002",
+   "centroid_px": [
+    69.4,
+    14.5
+   ],
+   "bbox_px": [
+    53,
+    2,
+    33,
+    30
+   ],
+   "contour_px": [
+    [
+     54,
+     4
+    ],
+    [
+     53,
+     14
+    ],
+    [
+     56,
+     21
+    ],
+    [
+     61,
+     27
+    ],
+    [
+     66,
+     30
+    ],
+    [
+     72,
+     29
+    ],
+    [
+     74,
+     31
+    ],
+    [
+     83,
+     23
+    ],
+    [
+     85,
+     19
+    ],
+    [
+     85,
+     7
+    ],
+    [
+     81,
+     2
+    ],
+    [
+     56,
+     2
+    ]
+   ],
+   "area": 801.0,
+   "diameter": 31.94,
+   "circularity": 0.948,
+   "pallor_ratio": 0.0,
+   "shape_class": null,
+   "shape_class_source": "none",
+   "excluded": true,
+   "exclusion_reason": "touches_image_border"
+  },
+  {
+   "cell_id": "c003",
+   "centroid_px": [
+    138.9,
+    7.4
+   ],
+   "bbox_px": [
+    124,
+    2,
+    30,
+    14
+   ],
+   "contour_px": [
+    [
+     124,
+     4
+    ],
+    [
+     125,
+     7
+    ],
+    [
+     129,
+     11
+    ],
+    [
+     136,
+     15
+    ],
+    [
+     143,
+     15
+    ],
+    [
+     147,
+     13
+    ],
+    [
+     153,
+     6
+    ],
+    [
+     153,
+     4
+    ],
+    [
+     151,
+     2
+    ],
+    [
+     126,
+     2
+    ]
+   ],
+   "area": 321.0,
+   "diameter": 20.22,
+   "circularity": 0.808,
+   "pallor_ratio": 0.0,
+   "shape_class": null,
+   "shape_class_source": "none",
+   "excluded": true,
+   "exclusion_reason": "touches_image_border"
+  },
+  {
+   "cell_id": "c004",
+   "centroid_px": [
+    221.9,
+    11.6
+   ],
+   "bbox_px": [
+    205,
+    2,
+    34,
+    24
+   ],
+   "contour_px": [
+    [
+     205,
+     4
+    ],
+    [
+     205,
+     9
+    ],
+    [
+     208,
+     16
+    ],
+    [
+     212,
+     20
+    ],
+    [
+     221,
+     25
+    ],
+    [
+     231,
+     22
+    ],
+    [
+     235,
+     18
+    ],
+    [
+     238,
+     12
+    ],
+    [
+     238,
+     6
+    ],
+    [
+     235,
+     2
+    ],
+    [
+     207,
+     2
+    ]
+   ],
+   "area": 636.0,
+   "diameter": 28.46,
+   "circularity": 0.907,
+   "pallor_ratio": 0.0,
+   "shape_class": null,
+   "shape_class_source": "none",
+   "excluded": true,
+   "exclusion_reason": "touches_image_border"
+  },
+  {
+   "cell_id": "c005",
+   "centroid_px": [
+    293.7,
+    10.3
+   ],
+   "bbox_px": [
+    277,
+    2,
+    34,
+    20
+   ],
+   "contour_px": [
+    [
+     277,
+     4
+    ],
+    [
+     277,
+     9
+    ],
+    [
+     279,
+     13
+    ],
+    [
+     285,
+     19
+    ],
+    [
+     289,
+     21
+    ],
+    [
+     298,
+     21
+    ],
+    [
+     304,
+     18
+    ],
+    [
+     310,
+     10
+    ],
+    [
+     310,
+     4
+    ],
+    [
+     308,
+     2
+    ],
+    [
+     279,
+     2
+    ]
+   ],
+   "area": 559.0,
+   "diameter": 26.68,
+   "circularity": 0.897,
+   "pallor_ratio": 0.179,
+   "shape_class": null,
+   "shape_class_source": "none",
+   "excluded": true,
+   "exclusion_reason": "touches_image_border"
+  },
+  {
+   "cell_id": "c006",
+   "centroid_px": [
+    413.1,
+    12.7
+   ],
+   "bbox_px": [
+    394,
+    2,
+    41,
+    26
+   ],
+   "contour_px": [
+    [
+     394,
+     14
+    ],
+    [
+     396,
+     18
+    ],
+    [
+     402,
+     24
+    ],
+    [
+     409,
+     27
+    ],
+    [
+     415,
+     27
+    ],
+    [
+     424,
+     23
+    ],
+    [
+     428,
+     19
+    ],
+    [
+     431,
+     13
+    ],
+    [
+     431,
+     9
+    ],
+    [
+     434,
+     6
+    ],
+    [
+     434,
+     2
+    ],
+    [
+     398,
+     2
+    ],
+    [
+     395,
+     5
+    ]
+   ],
+   "area": 832.0,
+   "diameter": 32.55,
+   "circularity": 0.867,
+   "pallor_ratio": 0.0,
+   "shape_class": null,
+   "shape_class_source": "none",
+   "excluded": true,
+   "exclusion_reason": "touches_image_border"
+  },
+  {
+   "cell_id": "c007",
+   "centroid_px": [
+    451.6,
+    8.7
+   ],
+   "bbox_px": [
+    435,
+    2,
+    34,
+    17
+   ],
+   "contour_px": [
+    [
+     435,
+     2
+    ],
+    [
+     435,
+     7
+    ],
+    [
+     440,
+     13
+    ],
+    [
+     449,
+     18
+    ],
+    [
+     455,
+     18
+    ],
+    [
+     462,
+     15
+    ],
+    [
+     465,
+     12
+    ],
+    [
+     465,
+     10
+    ],
+    [
+     468,
+     6
+    ],
+    [
+     468,
+     4
+    ],
+    [
+     466,
+     2
+    ]
+   ],
+   "area": 449.0,
+   "diameter": 23.91,
+   "circularity": 0.801,
+   "pallor_ratio": 0.0,
+   "shape_class": null,
+   "shape_class_source": "none",
+   "excluded": true,
+   "exclusion_reason": "touches_image_border"
+  },
+  {
+   "cell_id": "c008",
+   "centroid_px": [
+    564.6,
+    37.9
+   ],
+   "bbox_px": [
+    547,
+    20,
+    36,
+    36
+   ],
+   "contour_px": [
+    [
+     562,
+     20
+    ],
+    [
+     552,
+     27
+    ],
+    [
+     548,
+     34
+    ],
+    [
+     547,
+     40
+    ],
+    [
+     551,
+     49
+    ],
+    [
+     554,
+     52
+    ],
+    [
+     558,
+     54
+    ],
+    [
+     565,
+     55
+    ],
+    [
+     575,
+     51
+    ],
+    [
+     579,
+     47
+    ],
+    [
+     582,
+     38
+    ],
+    [
+     581,
+     37
+    ],
+    [
+     581,
+     31
+    ],
+    [
+     576,
+     25
+    ],
+    [
+     573,
+     23
+    ],
+    [
+     568,
+     22
+    ],
+    [
+     566,
+     20
+    ]
+   ],
+   "area": 942.0,
+   "diameter": 34.63,
+   "circularity": 0.961,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c009",
+   "centroid_px": [
+    563.0,
+    8.6
+   ],
+   "bbox_px": [
+    545,
+    2,
+    38,
+    18
+   ],
+   "contour_px": [
+    [
+     545,
+     4
+    ],
+    [
+     547,
+     10
+    ],
+    [
+     554,
+     16
+    ],
+    [
+     559,
+     17
+    ],
+    [
+     561,
+     19
+    ],
+    [
+     565,
+     19
+    ],
+    [
+     568,
+     16
+    ],
+    [
+     574,
+     14
+    ],
+    [
+     582,
+     5
+    ],
+    [
+     580,
+     2
+    ],
+    [
+     547,
+     2
+    ]
+   ],
+   "area": 486.0,
+   "diameter": 24.88,
+   "circularity": 0.762,
+   "pallor_ratio": 0.0,
+   "shape_class": null,
+   "shape_class_source": "none",
+   "excluded": true,
+   "exclusion_reason": "touches_image_border"
+  },
+  {
+   "cell_id": "c010",
+   "centroid_px": [
+    626.7,
+    10.7
+   ],
+   "bbox_px": [
+    615,
+    2,
+    23,
+    20
+   ],
+   "contour_px": [
+    [
+     615,
+     4
+    ],
+    [
+     615,
+     11
+    ],
+    [
+     617,
+     15
+    ],
+    [
+     623,
+     20
+    ],
+    [
+     632,
+     21
+    ],
+    [
+     637,
+     18
+    ],
+    [
+     637,
+     4
+    ],
+    [
+     635,
+     2
+    ],
+    [
+     617,
+     2
+    ]
+   ],
+   "area": 401.0,
+   "diameter": 22.6,
+   "circularity": 0.97,
+   "pallor_ratio": 0.0,
+   "shape_class": null,
+   "shape_class_source": "none",
+   "excluded": true,
+   "exclusion_reason": "touches_image_border"
+  },
+  {
+   "cell_id": "c011",
+   "centroid_px": [
+    264.9,
+    31.4
+   ],
+   "bbox_px": [
+    246,
+    12,
+    39,
+    39
+   ],
+   "contour_px": [
+    [
+     256,
+     14
+    ],
+    [
+     247,
+     23
+    ],
+    [
+     246,
+     28
+    ],
+    [
+     247,
+     38
+    ],
+    [
+     253,
+     44
+    ],
+    [
+     253,
+     46
+    ],
+    [
+     256,
+     49
+    ],
+    [
+     264,
+     49
+    ],
+    [
+     265,
+     48
+    ],
+    [
+     272,
+     50
+    ],
+    [
+     284,
+     39
+    ],
+    [
+     283,
+     38
+    ],
+    [
+     284,
+     29
+    ],
+    [
+     282,
+     27
+    ],
+    [
+     280,
+     21
+    ],
+    [
+     275,
+     16
+    ],
+    [
+     273,
+     16
+    ],
+    [
+     267,
+     12
+    ],
+    [
+     262,
+     14
+    ]
+   ],
+   "area": 1137.0,
+   "diameter": 38.05,
+   "circularity": 0.947,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c012",
+   "centroid_px": [
+    603.4,
+    36.1
+   ],
+   "bbox_px": [
+    588,
+    19,
+    33,
+    35
+   ],
+   "contour_px": [
+    [
+     600,
+     19
+    ],
+    [
+     594,
+     22
+    ],
+    [
+     589,
+     28
+    ],
+    [
+     588,
+     42
+    ],
+    [
+     589,
+     45
+    ],
+    [
+     594,
+     51
+    ],
+    [
+     598,
+     53
+    ],
+    [
+     607,
+     53
+    ],
+    [
+     610,
+     52
+    ],
+    [
+     617,
+     45
+    ],
+    [
+     620,
+     40
+    ],
+    [
+     619,
+     39
+    ],
+    [
+     620,
+     36
+    ],
+    [
+     619,
+     30
+    ],
+    [
+     617,
+     26
+    ],
+    [
+     610,
+     20
+    ]
+   ],
+   "area": 910.0,
+   "diameter": 34.04,
+   "circularity": 0.989,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c013",
+   "centroid_px": [
+    374.2,
+    34.6
+   ],
+   "bbox_px": [
+    359,
+    20,
+    32,
+    31
+   ],
+   "contour_px": [
+    [
+     380,
+     20
+    ],
+    [
+     370,
+     20
+    ],
+    [
+     361,
+     27
+    ],
+    [
+     359,
+     31
+    ],
+    [
+     359,
+     41
+    ],
+    [
+     366,
+     48
+    ],
+    [
+     374,
+     50
+    ],
+    [
+     383,
+     47
+    ],
+    [
+     387,
+     43
+    ],
+    [
+     390,
+     36
+    ],
+    [
+     389,
+     29
+    ],
+    [
+     387,
+     25
+    ]
+   ],
+   "area": 770.0,
+   "diameter": 31.31,
+   "circularity": 0.989,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c014",
+   "centroid_px": [
+    177.8,
+    50.9
+   ],
+   "bbox_px": [
+    160,
+    34,
+    35,
+    35
+   ],
+   "contour_px": [
+    [
+     192,
+     37
+    ],
+    [
+     190,
+     39
+    ],
+    [
+     187,
+     36
+    ],
+    [
+     180,
+     34
+    ],
+    [
+     168,
+     37
+    ],
+    [
+     163,
+     42
+    ],
+    [
+     160,
+     49
+    ],
+    [
+     163,
+     60
+    ],
+    [
+     168,
+     65
+    ],
+    [
+     172,
+     67
+    ],
+    [
+     179,
+     68
+    ],
+    [
+     188,
+     65
+    ],
+    [
+     194,
+     57
+    ],
+    [
+     194,
+     47
+    ]
+   ],
+   "area": 953.0,
+   "diameter": 34.83,
+   "circularity": 0.935,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c015",
+   "centroid_px": [
+    208.5,
+    41.4
+   ],
+   "bbox_px": [
+    193,
+    25,
+    33,
+    33
+   ],
+   "contour_px": [
+    [
+     203,
+     25
+    ],
+    [
+     196,
+     30
+    ],
+    [
+     193,
+     36
+    ],
+    [
+     194,
+     46
+    ],
+    [
+     195,
+     47
+    ],
+    [
+     195,
+     56
+    ],
+    [
+     197,
+     54
+    ],
+    [
+     204,
+     57
+    ],
+    [
+     216,
+     56
+    ],
+    [
+     222,
+     51
+    ],
+    [
+     224,
+     47
+    ],
+    [
+     225,
+     40
+    ],
+    [
+     223,
+     34
+    ],
+    [
+     219,
+     29
+    ],
+    [
+     209,
+     25
+    ]
+   ],
+   "area": 860.0,
+   "diameter": 33.09,
+   "circularity": 0.911,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c016",
+   "centroid_px": [
+    140.9,
+    67.3
+   ],
+   "bbox_px": [
+    121,
+    46,
+    41,
+    44
+   ],
+   "contour_px": [
+    [
+     133,
+     46
+    ],
+    [
+     128,
+     52
+    ],
+    [
+     127,
+     57
+    ],
+    [
+     121,
+     63
+    ],
+    [
+     122,
+     72
+    ],
+    [
+     124,
+     74
+    ],
+    [
+     127,
+     82
+    ],
+    [
+     130,
+     85
+    ],
+    [
+     141,
+     89
+    ],
+    [
+     144,
+     89
+    ],
+    [
+     159,
+     77
+    ],
+    [
+     161,
+     65
+    ],
+    [
+     158,
+     62
+    ],
+    [
+     155,
+     56
+    ],
+    [
+     155,
+     52
+    ],
+    [
+     153,
+     50
+    ],
+    [
+     145,
+     49
+    ],
+    [
+     141,
+     46
+    ],
+    [
+     136,
+     46
+    ],
+    [
+     135,
+     47
+    ]
+   ],
+   "area": 1283.0,
+   "diameter": 40.42,
+   "circularity": 0.918,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c017",
+   "centroid_px": [
+    115.3,
+    44.2
+   ],
+   "bbox_px": [
+    99,
+    27,
+    35,
+    37
+   ],
+   "contour_px": [
+    [
+     114,
+     27
+    ],
+    [
+     106,
+     30
+    ],
+    [
+     101,
+     35
+    ],
+    [
+     99,
+     41
+    ],
+    [
+     99,
+     47
+    ],
+    [
+     102,
+     54
+    ],
+    [
+     108,
+     60
+    ],
+    [
+     116,
+     61
+    ],
+    [
+     120,
+     63
+    ],
+    [
+     126,
+     57
+    ],
+    [
+     127,
+     52
+    ],
+    [
+     133,
+     45
+    ],
+    [
+     129,
+     34
+    ],
+    [
+     125,
+     30
+    ],
+    [
+     121,
+     28
+    ]
+   ],
+   "area": 915.0,
+   "diameter": 34.13,
+   "circularity": 0.953,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c018",
+   "centroid_px": [
+    305.5,
+    47.8
+   ],
+   "bbox_px": [
+    289,
+    32,
+    34,
+    32
+   ],
+   "contour_px": [
+    [
+     296,
+     33
+    ],
+    [
+     289,
+     44
+    ],
+    [
+     292,
+     56
+    ],
+    [
+     300,
+     63
+    ],
+    [
+     302,
+     62
+    ],
+    [
+     305,
+     63
+    ],
+    [
+     315,
+     62
+    ],
+    [
+     321,
+     55
+    ],
+    [
+     322,
+     45
+    ],
+    [
+     310,
+     33
+    ],
+    [
+     307,
+     32
+    ]
+   ],
+   "area": 842.0,
+   "diameter": 32.74,
+   "circularity": 0.984,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c019",
+   "centroid_px": [
+    71.2,
+    90.5
+   ],
+   "bbox_px": [
+    53,
+    71,
+    39,
+    40
+   ],
+   "contour_px": [
+    [
+     58,
+     71
+    ],
+    [
+     55,
+     74
+    ],
+    [
+     55,
+     77
+    ],
+    [
+     57,
+     80
+    ],
+    [
+     53,
+     89
+    ],
+    [
+     54,
+     94
+    ],
+    [
+     53,
+     98
+    ],
+    [
+     57,
+     102
+    ],
+    [
+     57,
+     105
+    ],
+    [
+     59,
+     107
+    ],
+    [
+     65,
+     108
+    ],
+    [
+     68,
+     110
+    ],
+    [
+     76,
+     110
+    ],
+    [
+     82,
+     106
+    ],
+    [
+     91,
+     96
+    ],
+    [
+     89,
+     82
+    ],
+    [
+     78,
+     72
+    ],
+    [
+     75,
+     71
+    ],
+    [
+     73,
+     73
+    ],
+    [
+     68,
+     73
+    ],
+    [
+     66,
+     71
+    ],
+    [
+     63,
+     74
+    ],
+    [
+     60,
+     71
+    ]
+   ],
+   "area": 1210.0,
+   "diameter": 39.25,
+   "circularity": 0.863,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c020",
+   "centroid_px": [
+    67.9,
+    51.2
+   ],
+   "bbox_px": [
+    47,
+    33,
+    41,
+    38
+   ],
+   "contour_px": [
+    [
+     78,
+     35
+    ],
+    [
+     76,
+     35
+    ],
+    [
+     74,
+     33
+    ],
+    [
+     72,
+     35
+    ],
+    [
+     68,
+     35
+    ],
+    [
+     65,
+     33
+    ],
+    [
+     60,
+     35
+    ],
+    [
+     51,
+     45
+    ],
+    [
+     49,
+     43
+    ],
+    [
+     47,
+     45
+    ],
+    [
+     48,
+     51
+    ],
+    [
+     52,
+     60
+    ],
+    [
+     57,
+     67
+    ],
+    [
+     57,
+     70
+    ],
+    [
+     61,
+     70
+    ],
+    [
+     64,
+     66
+    ],
+    [
+     66,
+     68
+    ],
+    [
+     68,
+     67
+    ],
+    [
+     73,
+     67
+    ],
+    [
+     74,
+     68
+    ],
+    [
+     81,
+     64
+    ],
+    [
+     85,
+     60
+    ],
+    [
+     87,
+     55
+    ],
+    [
+     87,
+     47
+    ],
+    [
+     84,
+     41
+    ]
+   ],
+   "area": 1101.0,
+   "diameter": 37.44,
+   "circularity": 0.815,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c021",
+   "centroid_px": [
+    478.4,
+    50.0
+   ],
+   "bbox_px": [
+    460,
+    33,
+    38,
+    35
+   ],
+   "contour_px": [
+    [
+     469,
+     35
+    ],
+    [
+     460,
+     45
+    ],
+    [
+     460,
+     55
+    ],
+    [
+     462,
+     59
+    ],
+    [
+     471,
+     67
+    ],
+    [
+     484,
+     67
+    ],
+    [
+     495,
+     58
+    ],
+    [
+     497,
+     53
+    ],
+    [
+     496,
+     43
+    ],
+    [
+     491,
+     37
+    ],
+    [
+     483,
+     33
+    ],
+    [
+     475,
+     33
+    ]
+   ],
+   "area": 1051.0,
+   "diameter": 36.58,
+   "circularity": 1.0,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c022",
+   "centroid_px": [
+    528.2,
+    50.1
+   ],
+   "bbox_px": [
+    512,
+    33,
+    34,
+    36
+   ],
+   "contour_px": [
+    [
+     517,
+     36
+    ],
+    [
+     514,
+     39
+    ],
+    [
+     512,
+     44
+    ],
+    [
+     512,
+     53
+    ],
+    [
+     514,
+     58
+    ],
+    [
+     523,
+     67
+    ],
+    [
+     527,
+     68
+    ],
+    [
+     538,
+     65
+    ],
+    [
+     543,
+     60
+    ],
+    [
+     545,
+     54
+    ],
+    [
+     545,
+     50
+    ],
+    [
+     542,
+     41
+    ],
+    [
+     537,
+     36
+    ],
+    [
+     531,
+     33
+    ],
+    [
+     523,
+     33
+    ]
+   ],
+   "area": 939.0,
+   "diameter": 34.58,
+   "circularity": 0.996,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c023",
+   "centroid_px": [
+    10.2,
+    72.1
+   ],
+   "bbox_px": [
+    2,
+    56,
+    21,
+    36
+   ],
+   "contour_px": [
+    [
+     17,
+     56
+    ],
+    [
+     13,
+     60
+    ],
+    [
+     11,
+     60
+    ],
+    [
+     7,
+     56
+    ],
+    [
+     5,
+     56
+    ],
+    [
+     2,
+     59
+    ],
+    [
+     2,
+     89
+    ],
+    [
+     4,
+     91
+    ],
+    [
+     10,
+     89
+    ],
+    [
+     15,
+     80
+    ],
+    [
+     22,
+     75
+    ],
+    [
+     20,
+     68
+    ],
+    [
+     20,
+     61
+    ]
+   ],
+   "area": 549.0,
+   "diameter": 26.44,
+   "circularity": 0.72,
+   "pallor_ratio": 0.0,
+   "shape_class": null,
+   "shape_class_source": "none",
+   "excluded": true,
+   "exclusion_reason": "touches_image_border"
+  },
+  {
+   "cell_id": "c024",
+   "centroid_px": [
+    439.3,
+    75.3
+   ],
+   "bbox_px": [
+    419,
+    57,
+    41,
+    38
+   ],
+   "contour_px": [
+    [
+     434,
+     57
+    ],
+    [
+     429,
+     60
+    ],
+    [
+     422,
+     67
+    ],
+    [
+     419,
+     79
+    ],
+    [
+     427,
+     92
+    ],
+    [
+     432,
+     92
+    ],
+    [
+     435,
+     94
+    ],
+    [
+     437,
+     93
+    ],
+    [
+     444,
+     94
+    ],
+    [
+     450,
+     91
+    ],
+    [
+     456,
+     84
+    ],
+    [
+     458,
+     80
+    ],
+    [
+     459,
+     69
+    ],
+    [
+     451,
+     58
+    ],
+    [
+     446,
+     57
+    ],
+    [
+     437,
+     58
+    ]
+   ],
+   "area": 1200.0,
+   "diameter": 39.09,
+   "circularity": 0.953,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c025",
+   "centroid_px": [
+    502.8,
+    78.3
+   ],
+   "bbox_px": [
+    486,
+    62,
+    35,
+    34
+   ],
+   "contour_px": [
+    [
+     507,
+     62
+    ],
+    [
+     501,
+     62
+    ],
+    [
+     496,
+     64
+    ],
+    [
+     490,
+     68
+    ],
+    [
+     486,
+     74
+    ],
+    [
+     487,
+     86
+    ],
+    [
+     491,
+     91
+    ],
+    [
+     496,
+     94
+    ],
+    [
+     500,
+     95
+    ],
+    [
+     507,
+     94
+    ],
+    [
+     514,
+     90
+    ],
+    [
+     519,
+     83
+    ],
+    [
+     520,
+     74
+    ],
+    [
+     518,
+     69
+    ],
+    [
+     511,
+     63
+    ]
+   ],
+   "area": 917.0,
+   "diameter": 34.17,
+   "circularity": 0.987,
+   "pallor_ratio": 0.31,
+   "shape_class": "normal",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c026",
+   "centroid_px": [
+    216.5,
+    78.7
+   ],
+   "bbox_px": [
+    200,
+    63,
+    34,
+    33
+   ],
+   "contour_px": [
+    [
+     213,
+     63
+    ],
+    [
+     208,
+     65
+    ],
+    [
+     203,
+     70
+    ],
+    [
+     200,
+     77
+    ],
+    [
+     200,
+     82
+    ],
+    [
+     203,
+     88
+    ],
+    [
+     207,
+     92
+    ],
+    [
+     218,
+     95
+    ],
+    [
+     224,
+     93
+    ],
+    [
+     229,
+     89
+    ],
+    [
+     232,
+     84
+    ],
+    [
+     233,
+     78
+    ],
+    [
+     231,
+     70
+    ],
+    [
+     226,
+     65
+    ],
+    [
+     222,
+     63
+    ]
+   ],
+   "area": 857.0,
+   "diameter": 33.03,
+   "circularity": 0.991,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c027",
+   "centroid_px": [
+    294.4,
+    85.4
+   ],
+   "bbox_px": [
+    274,
+    66,
+    41,
+    40
+   ],
+   "contour_px": [
+    [
+     300,
+     66
+    ],
+    [
+     288,
+     69
+    ],
+    [
+     283,
+     72
+    ],
+    [
+     278,
+     77
+    ],
+    [
+     274,
+     87
+    ],
+    [
+     275,
+     89
+    ],
+    [
+     274,
+     96
+    ],
+    [
+     275,
+     95
+    ],
+    [
+     280,
+     100
+    ],
+    [
+     285,
+     101
+    ],
+    [
+     287,
+     103
+    ],
+    [
+     289,
+     102
+    ],
+    [
+     292,
+     105
+    ],
+    [
+     294,
+     103
+    ],
+    [
+     298,
+     103
+    ],
+    [
+     305,
+     100
+    ],
+    [
+     311,
+     94
+    ],
+    [
+     314,
+     88
+    ],
+    [
+     314,
+     78
+    ],
+    [
+     307,
+     69
+    ],
+    [
+     302,
+     68
+    ]
+   ],
+   "area": 1188.0,
+   "diameter": 38.89,
+   "circularity": 0.909,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c028",
+   "centroid_px": [
+    254.7,
+    98.7
+   ],
+   "bbox_px": [
+    237,
+    84,
+    37,
+    31
+   ],
+   "contour_px": [
+    [
+     238,
+     92
+    ],
+    [
+     237,
+     101
+    ],
+    [
+     240,
+     107
+    ],
+    [
+     250,
+     114
+    ],
+    [
+     259,
+     114
+    ],
+    [
+     264,
+     112
+    ],
+    [
+     272,
+     102
+    ],
+    [
+     273,
+     92
+    ],
+    [
+     272,
+     93
+    ],
+    [
+     267,
+     88
+    ],
+    [
+     259,
+     84
+    ],
+    [
+     249,
+     84
+    ],
+    [
+     242,
+     88
+    ]
+   ],
+   "area": 882.0,
+   "diameter": 33.51,
+   "circularity": 0.959,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c029",
+   "centroid_px": [
+    382.4,
+    89.3
+   ],
+   "bbox_px": [
+    363,
+    69,
+    40,
+    41
+   ],
+   "contour_px": [
+    [
+     380,
+     69
+    ],
+    [
+     370,
+     73
+    ],
+    [
+     366,
+     77
+    ],
+    [
+     363,
+     84
+    ],
+    [
+     363,
+     91
+    ],
+    [
+     367,
+     101
+    ],
+    [
+     373,
+     107
+    ],
+    [
+     379,
+     109
+    ],
+    [
+     386,
+     109
+    ],
+    [
+     394,
+     106
+    ],
+    [
+     399,
+     101
+    ],
+    [
+     402,
+     93
+    ],
+    [
+     402,
+     87
+    ],
+    [
+     398,
+     78
+    ],
+    [
+     393,
+     73
+    ],
+    [
+     383,
+     69
+    ]
+   ],
+   "area": 1260.0,
+   "diameter": 40.05,
+   "circularity": 0.991,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c030",
+   "centroid_px": [
+    552.7,
+    90.8
+   ],
+   "bbox_px": [
+    535,
+    73,
+    36,
+    36
+   ],
+   "contour_px": [
+    [
+     549,
+     73
+    ],
+    [
+     543,
+     76
+    ],
+    [
+     538,
+     81
+    ],
+    [
+     535,
+     91
+    ],
+    [
+     536,
+     96
+    ],
+    [
+     539,
+     102
+    ],
+    [
+     544,
+     107
+    ],
+    [
+     557,
+     108
+    ],
+    [
+     563,
+     105
+    ],
+    [
+     568,
+     100
+    ],
+    [
+     570,
+     95
+    ],
+    [
+     569,
+     84
+    ],
+    [
+     561,
+     75
+    ],
+    [
+     556,
+     73
+    ]
+   ],
+   "area": 1001.0,
+   "diameter": 35.7,
+   "circularity": 1.0,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c031",
+   "centroid_px": [
+    621.4,
+    98.5
+   ],
+   "bbox_px": [
+    603,
+    80,
+    35,
+    39
+   ],
+   "contour_px": [
+    [
+     618,
+     80
+    ],
+    [
+     607,
+     86
+    ],
+    [
+     603,
+     94
+    ],
+    [
+     603,
+     100
+    ],
+    [
+     605,
+     106
+    ],
+    [
+     611,
+     113
+    ],
+    [
+     617,
+     116
+    ],
+    [
+     627,
+     118
+    ],
+    [
+     634,
+     115
+    ],
+    [
+     637,
+     112
+    ],
+    [
+     637,
+     86
+    ],
+    [
+     634,
+     83
+    ],
+    [
+     629,
+     81
+    ]
+   ],
+   "area": 1108.0,
+   "diameter": 37.56,
+   "circularity": 0.971,
+   "pallor_ratio": 0.394,
+   "shape_class": "normal",
+   "shape_class_source": "annotation",
+   "excluded": true,
+   "exclusion_reason": "touches_image_border"
+  },
+  {
+   "cell_id": "c032",
+   "centroid_px": [
+    184.7,
+    104.2
+   ],
+   "bbox_px": [
+    165,
+    86,
+    40,
+    37
+   ],
+   "contour_px": [
+    [
+     181,
+     86
+    ],
+    [
+     174,
+     89
+    ],
+    [
+     168,
+     95
+    ],
+    [
+     165,
+     102
+    ],
+    [
+     165,
+     106
+    ],
+    [
+     169,
+     115
+    ],
+    [
+     178,
+     122
+    ],
+    [
+     191,
+     122
+    ],
+    [
+     195,
+     120
+    ],
+    [
+     204,
+     108
+    ],
+    [
+     203,
+     99
+    ],
+    [
+     200,
+     93
+    ],
+    [
+     196,
+     89
+    ],
+    [
+     190,
+     86
+    ]
+   ],
+   "area": 1139.0,
+   "diameter": 38.08,
+   "circularity": 0.996,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c033",
+   "centroid_px": [
+    344.1,
+    105.7
+   ],
+   "bbox_px": [
+    327,
+    89,
+    35,
+    34
+   ],
+   "contour_px": [
+    [
+     340,
+     89
+    ],
+    [
+     336,
+     91
+    ],
+    [
+     330,
+     97
+    ],
+    [
+     327,
+     104
+    ],
+    [
+     327,
+     113
+    ],
+    [
+     332,
+     119
+    ],
+    [
+     336,
+     121
+    ],
+    [
+     348,
+     122
+    ],
+    [
+     353,
+     120
+    ],
+    [
+     359,
+     114
+    ],
+    [
+     361,
+     110
+    ],
+    [
+     361,
+     100
+    ],
+    [
+     360,
+     97
+    ],
+    [
+     354,
+     91
+    ],
+    [
+     348,
+     89
+    ]
+   ],
+   "area": 953.0,
+   "diameter": 34.83,
+   "circularity": 1.0,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c034",
+   "centroid_px": [
+    146.1,
+    116.6
+   ],
+   "bbox_px": [
+    128,
+    99,
+    37,
+    36
+   ],
+   "contour_px": [
+    [
+     143,
+     99
+    ],
+    [
+     134,
+     103
+    ],
+    [
+     131,
+     106
+    ],
+    [
+     128,
+     116
+    ],
+    [
+     131,
+     125
+    ],
+    [
+     140,
+     133
+    ],
+    [
+     149,
+     134
+    ],
+    [
+     155,
+     132
+    ],
+    [
+     161,
+     127
+    ],
+    [
+     164,
+     120
+    ],
+    [
+     164,
+     116
+    ],
+    [
+     161,
+     108
+    ],
+    [
+     157,
+     103
+    ],
+    [
+     150,
+     100
+    ]
+   ],
+   "area": 999.0,
+   "diameter": 35.66,
+   "circularity": 0.976,
+   "pallor_ratio": 0.247,
+   "shape_class": "normal",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c035",
+   "centroid_px": [
+    446.0,
+    116.7
+   ],
+   "bbox_px": [
+    432,
+    102,
+    29,
+    30
+   ],
+   "contour_px": [
+    [
+     445,
+     102
+    ],
+    [
+     441,
+     103
+    ],
+    [
+     435,
+     107
+    ],
+    [
+     432,
+     113
+    ],
+    [
+     432,
+     120
+    ],
+    [
+     434,
+     125
+    ],
+    [
+     438,
+     129
+    ],
+    [
+     442,
+     131
+    ],
+    [
+     450,
+     131
+    ],
+    [
+     458,
+     125
+    ],
+    [
+     460,
+     120
+    ],
+    [
+     460,
+     113
+    ],
+    [
+     456,
+     106
+    ],
+    [
+     451,
+     103
+    ]
+   ],
+   "area": 687.0,
+   "diameter": 29.58,
+   "circularity": 0.998,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c036",
+   "centroid_px": [
+    286.9,
+    122.1
+   ],
+   "bbox_px": [
+    272,
+    106,
+    31,
+    34
+   ],
+   "contour_px": [
+    [
+     280,
+     107
+    ],
+    [
+     273,
+     114
+    ],
+    [
+     272,
+     124
+    ],
+    [
+     275,
+     131
+    ],
+    [
+     280,
+     136
+    ],
+    [
+     282,
+     136
+    ],
+    [
+     285,
+     139
+    ],
+    [
+     290,
+     139
+    ],
+    [
+     300,
+     131
+    ],
+    [
+     302,
+     127
+    ],
+    [
+     302,
+     119
+    ],
+    [
+     298,
+     112
+    ],
+    [
+     291,
+     106
+    ],
+    [
+     289,
+     108
+    ],
+    [
+     286,
+     106
+    ],
+    [
+     285,
+     107
+    ]
+   ],
+   "area": 791.0,
+   "diameter": 31.74,
+   "circularity": 0.954,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c037",
+   "centroid_px": [
+    282.4,
+    154.8
+   ],
+   "bbox_px": [
+    265,
+    140,
+    35,
+    31
+   ],
+   "contour_px": [
+    [
+     291,
+     140
+    ],
+    [
+     284,
+     140
+    ],
+    [
+     282,
+     142
+    ],
+    [
+     279,
+     141
+    ],
+    [
+     273,
+     142
+    ],
+    [
+     265,
+     149
+    ],
+    [
+     267,
+     151
+    ],
+    [
+     265,
+     153
+    ],
+    [
+     266,
+     160
+    ],
+    [
+     268,
+     164
+    ],
+    [
+     273,
+     169
+    ],
+    [
+     281,
+     170
+    ],
+    [
+     284,
+     168
+    ],
+    [
+     291,
+     168
+    ],
+    [
+     298,
+     162
+    ],
+    [
+     299,
+     160
+    ],
+    [
+     299,
+     149
+    ]
+   ],
+   "area": 861.0,
+   "diameter": 33.11,
+   "circularity": 0.946,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c038",
+   "centroid_px": [
+    544.8,
+    131.6
+   ],
+   "bbox_px": [
+    526,
+    114,
+    38,
+    37
+   ],
+   "contour_px": [
+    [
+     536,
+     115
+    ],
+    [
+     529,
+     121
+    ],
+    [
+     526,
+     127
+    ],
+    [
+     526,
+     136
+    ],
+    [
+     529,
+     142
+    ],
+    [
+     532,
+     145
+    ],
+    [
+     545,
+     150
+    ],
+    [
+     550,
+     150
+    ],
+    [
+     556,
+     147
+    ],
+    [
+     562,
+     141
+    ],
+    [
+     563,
+     138
+    ],
+    [
+     563,
+     126
+    ],
+    [
+     561,
+     122
+    ],
+    [
+     556,
+     117
+    ],
+    [
+     549,
+     114
+    ]
+   ],
+   "area": 1117.0,
+   "diameter": 37.71,
+   "circularity": 1.0,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c039",
+   "centroid_px": [
+    10.7,
+    132.0
+   ],
+   "bbox_px": [
+    2,
+    115,
+    22,
+    35
+   ],
+   "contour_px": [
+    [
+     4,
+     115
+    ],
+    [
+     2,
+     117
+    ],
+    [
+     2,
+     146
+    ],
+    [
+     4,
+     148
+    ],
+    [
+     8,
+     149
+    ],
+    [
+     21,
+     141
+    ],
+    [
+     21,
+     136
+    ],
+    [
+     23,
+     134
+    ],
+    [
+     23,
+     130
+    ],
+    [
+     19,
+     125
+    ],
+    [
+     19,
+     123
+    ],
+    [
+     13,
+     117
+    ],
+    [
+     8,
+     115
+    ]
+   ],
+   "area": 584.0,
+   "diameter": 27.27,
+   "circularity": 0.868,
+   "pallor_ratio": 0.0,
+   "shape_class": null,
+   "shape_class_source": "none",
+   "excluded": true,
+   "exclusion_reason": "touches_image_border"
+  },
+  {
+   "cell_id": "c040",
+   "centroid_px": [
+    77.8,
+    147.7
+   ],
+   "bbox_px": [
+    53,
+    125,
+    49,
+    47
+   ],
+   "contour_px": [
+    [
+     62,
+     128
+    ],
+    [
+     56,
+     134
+    ],
+    [
+     53,
+     141
+    ],
+    [
+     53,
+     147
+    ],
+    [
+     58,
+     154
+    ],
+    [
+     61,
+     162
+    ],
+    [
+     65,
+     166
+    ],
+    [
+     76,
+     171
+    ],
+    [
+     87,
+     171
+    ],
+    [
+     93,
+     168
+    ],
+    [
+     98,
+     163
+    ],
+    [
+     101,
+     157
+    ],
+    [
+     101,
+     144
+    ],
+    [
+     97,
+     136
+    ],
+    [
+     90,
+     129
+    ],
+    [
+     80,
+     125
+    ],
+    [
+     69,
+     125
+    ]
+   ],
+   "area": 1789.0,
+   "diameter": 47.73,
+   "circularity": 0.994,
+   "pallor_ratio": 0.0,
+   "shape_class": null,
+   "shape_class_source": "none",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c041",
+   "centroid_px": [
+    337.3,
+    145.4
+   ],
+   "bbox_px": [
+    320,
+    127,
+    35,
+    38
+   ],
+   "contour_px": [
+    [
+     325,
+     131
+    ],
+    [
+     323,
+     133
+    ],
+    [
+     322,
+     139
+    ],
+    [
+     320,
+     142
+    ],
+    [
+     320,
+     148
+    ],
+    [
+     324,
+     157
+    ],
+    [
+     332,
+     164
+    ],
+    [
+     347,
+     162
+    ],
+    [
+     354,
+     153
+    ],
+    [
+     354,
+     140
+    ],
+    [
+     353,
+     137
+    ],
+    [
+     342,
+     127
+    ],
+    [
+     334,
+     127
+    ]
+   ],
+   "area": 1040.0,
+   "diameter": 36.39,
+   "circularity": 0.987,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c042",
+   "centroid_px": [
+    183.6,
+    144.3
+   ],
+   "bbox_px": [
+    166,
+    128,
+    36,
+    34
+   ],
+   "contour_px": [
+    [
+     175,
+     129
+    ],
+    [
+     170,
+     133
+    ],
+    [
+     166,
+     142
+    ],
+    [
+     166,
+     146
+    ],
+    [
+     169,
+     154
+    ],
+    [
+     174,
+     159
+    ],
+    [
+     179,
+     161
+    ],
+    [
+     188,
+     161
+    ],
+    [
+     194,
+     158
+    ],
+    [
+     199,
+     153
+    ],
+    [
+     201,
+     148
+    ],
+    [
+     201,
+     141
+    ],
+    [
+     199,
+     136
+    ],
+    [
+     190,
+     128
+    ]
+   ],
+   "area": 971.0,
+   "diameter": 35.16,
+   "circularity": 1.0,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c043",
+   "centroid_px": [
+    244.3,
+    147.6
+   ],
+   "bbox_px": [
+    225,
+    128,
+    41,
+    40
+   ],
+   "contour_px": [
+    [
+     248,
+     128
+    ],
+    [
+     247,
+     129
+    ],
+    [
+     239,
+     129
+    ],
+    [
+     232,
+     134
+    ],
+    [
+     227,
+     139
+    ],
+    [
+     227,
+     144
+    ],
+    [
+     225,
+     147
+    ],
+    [
+     227,
+     152
+    ],
+    [
+     227,
+     157
+    ],
+    [
+     235,
+     165
+    ],
+    [
+     243,
+     167
+    ],
+    [
+     253,
+     165
+    ],
+    [
+     258,
+     160
+    ],
+    [
+     262,
+     153
+    ],
+    [
+     261,
+     151
+    ],
+    [
+     265,
+     147
+    ],
+    [
+     263,
+     145
+    ],
+    [
+     259,
+     135
+    ],
+    [
+     255,
+     131
+    ]
+   ],
+   "area": 1160.0,
+   "diameter": 38.43,
+   "circularity": 0.942,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c044",
+   "centroid_px": [
+    155.5,
+    174.7
+   ],
+   "bbox_px": [
+    138,
+    156,
+    36,
+    39
+   ],
+   "contour_px": [
+    [
+     161,
+     156
+    ],
+    [
+     151,
+     157
+    ],
+    [
+     146,
+     160
+    ],
+    [
+     144,
+     159
+    ],
+    [
+     139,
+     167
+    ],
+    [
+     140,
+     168
+    ],
+    [
+     138,
+     173
+    ],
+    [
+     139,
+     184
+    ],
+    [
+     148,
+     193
+    ],
+    [
+     157,
+     194
+    ],
+    [
+     163,
+     192
+    ],
+    [
+     170,
+     185
+    ],
+    [
+     172,
+     181
+    ],
+    [
+     173,
+     167
+    ],
+    [
+     171,
+     163
+    ],
+    [
+     166,
+     158
+    ]
+   ],
+   "area": 1114.0,
+   "diameter": 37.66,
+   "circularity": 0.965,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c045",
+   "centroid_px": [
+    125.1,
+    149.8
+   ],
+   "bbox_px": [
+    108,
+    131,
+    36,
+    38
+   ],
+   "contour_px": [
+    [
+     117,
+     131
+    ],
+    [
+     108,
+     140
+    ],
+    [
+     108,
+     154
+    ],
+    [
+     109,
+     155
+    ],
+    [
+     108,
+     159
+    ],
+    [
+     121,
+     168
+    ],
+    [
+     129,
+     168
+    ],
+    [
+     137,
+     165
+    ],
+    [
+     139,
+     166
+    ],
+    [
+     143,
+     159
+    ],
+    [
+     142,
+     157
+    ],
+    [
+     143,
+     156
+    ],
+    [
+     142,
+     143
+    ],
+    [
+     137,
+     137
+    ],
+    [
+     129,
+     131
+    ],
+    [
+     124,
+     131
+    ],
+    [
+     123,
+     132
+    ],
+    [
+     122,
+     131
+    ]
+   ],
+   "area": 1115.0,
+   "diameter": 37.68,
+   "circularity": 0.916,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c046",
+   "centroid_px": [
+    497.4,
+    151.2
+   ],
+   "bbox_px": [
+    480,
+    134,
+    36,
+    36
+   ],
+   "contour_px": [
+    [
+     494,
+     134
+    ],
+    [
+     486,
+     137
+    ],
+    [
+     481,
+     142
+    ],
+    [
+     480,
+     154
+    ],
+    [
+     483,
+     159
+    ],
+    [
+     482,
+     161
+    ],
+    [
+     489,
+     167
+    ],
+    [
+     500,
+     169
+    ],
+    [
+     508,
+     166
+    ],
+    [
+     512,
+     162
+    ],
+    [
+     515,
+     155
+    ],
+    [
+     515,
+     149
+    ],
+    [
+     513,
+     142
+    ],
+    [
+     508,
+     137
+    ],
+    [
+     502,
+     134
+    ]
+   ],
+   "area": 1023.0,
+   "diameter": 36.09,
+   "circularity": 0.954,
+   "pallor_ratio": 0.083,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c047",
+   "centroid_px": [
+    480.0,
+    178.3
+   ],
+   "bbox_px": [
+    466,
+    161,
+    28,
+    36
+   ],
+   "contour_px": [
+    [
+     476,
+     161
+    ],
+    [
+     467,
+     169
+    ],
+    [
+     466,
+     177
+    ],
+    [
+     470,
+     186
+    ],
+    [
+     480,
+     196
+    ],
+    [
+     485,
+     196
+    ],
+    [
+     492,
+     189
+    ],
+    [
+     493,
+     185
+    ],
+    [
+     491,
+     180
+    ],
+    [
+     492,
+     173
+    ],
+    [
+     489,
+     170
+    ],
+    [
+     490,
+     168
+    ],
+    [
+     481,
+     161
+    ],
+    [
+     480,
+     162
+    ]
+   ],
+   "area": 712.0,
+   "diameter": 30.11,
+   "circularity": 0.888,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c048",
+   "centroid_px": [
+    424.1,
+    192.7
+   ],
+   "bbox_px": [
+    405,
+    174,
+    40,
+    39
+   ],
+   "contour_px": [
+    [
+     412,
+     174
+    ],
+    [
+     411,
+     175
+    ],
+    [
+     412,
+     176
+    ],
+    [
+     407,
+     181
+    ],
+    [
+     405,
+     185
+    ],
+    [
+     407,
+     201
+    ],
+    [
+     414,
+     208
+    ],
+    [
+     420,
+     211
+    ],
+    [
+     430,
+     212
+    ],
+    [
+     435,
+     210
+    ],
+    [
+     440,
+     205
+    ],
+    [
+     444,
+     198
+    ],
+    [
+     443,
+     190
+    ],
+    [
+     439,
+     181
+    ],
+    [
+     437,
+     179
+    ],
+    [
+     425,
+     174
+    ]
+   ],
+   "area": 1206.0,
+   "diameter": 39.19,
+   "circularity": 0.961,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c049",
+   "centroid_px": [
+    379.7,
+    153.2
+   ],
+   "bbox_px": [
+    362,
+    135,
+    35,
+    37
+   ],
+   "contour_px": [
+    [
+     365,
+     143
+    ],
+    [
+     363,
+     147
+    ],
+    [
+     362,
+     156
+    ],
+    [
+     364,
+     162
+    ],
+    [
+     369,
+     168
+    ],
+    [
+     375,
+     171
+    ],
+    [
+     385,
+     171
+    ],
+    [
+     393,
+     166
+    ],
+    [
+     395,
+     167
+    ],
+    [
+     396,
+     145
+    ],
+    [
+     389,
+     137
+    ],
+    [
+     385,
+     135
+    ],
+    [
+     375,
+     135
+    ]
+   ],
+   "area": 1052.0,
+   "diameter": 36.6,
+   "circularity": 0.97,
+   "pallor_ratio": 0.087,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c050",
+   "centroid_px": [
+    411.6,
+    156.9
+   ],
+   "bbox_px": [
+    396,
+    138,
+    33,
+    39
+   ],
+   "contour_px": [
+    [
+     417,
+     138
+    ],
+    [
+     407,
+     139
+    ],
+    [
+     398,
+     147
+    ],
+    [
+     397,
+     146
+    ],
+    [
+     396,
+     168
+    ],
+    [
+     397,
+     171
+    ],
+    [
+     403,
+     176
+    ],
+    [
+     405,
+     176
+    ],
+    [
+     409,
+     173
+    ],
+    [
+     410,
+     174
+    ],
+    [
+     412,
+     173
+    ],
+    [
+     424,
+     173
+    ],
+    [
+     422,
+     171
+    ],
+    [
+     427,
+     166
+    ],
+    [
+     427,
+     164
+    ],
+    [
+     425,
+     162
+    ],
+    [
+     428,
+     157
+    ],
+    [
+     427,
+     146
+    ],
+    [
+     421,
+     140
+    ]
+   ],
+   "area": 1030.0,
+   "diameter": 36.21,
+   "circularity": 0.857,
+   "pallor_ratio": 0.319,
+   "shape_class": null,
+   "shape_class_source": "none",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c051",
+   "centroid_px": [
+    41.9,
+    195.7
+   ],
+   "bbox_px": [
+    26,
+    178,
+    33,
+    37
+   ],
+   "contour_px": [
+    [
+     35,
+     179
+    ],
+    [
+     26,
+     188
+    ],
+    [
+     26,
+     198
+    ],
+    [
+     29,
+     205
+    ],
+    [
+     36,
+     211
+    ],
+    [
+     40,
+     211
+    ],
+    [
+     42,
+     213
+    ],
+    [
+     44,
+     212
+    ],
+    [
+     46,
+     214
+    ],
+    [
+     56,
+     206
+    ],
+    [
+     58,
+     200
+    ],
+    [
+     58,
+     195
+    ],
+    [
+     55,
+     187
+    ],
+    [
+     51,
+     183
+    ],
+    [
+     42,
+     178
+    ]
+   ],
+   "area": 892.0,
+   "diameter": 33.7,
+   "circularity": 0.962,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c052",
+   "centroid_px": [
+    37.1,
+    162.1
+   ],
+   "bbox_px": [
+    21,
+    147,
+    33,
+    32
+   ],
+   "contour_px": [
+    [
+     44,
+     148
+    ],
+    [
+     37,
+     147
+    ],
+    [
+     30,
+     149
+    ],
+    [
+     24,
+     154
+    ],
+    [
+     21,
+     160
+    ],
+    [
+     21,
+     165
+    ],
+    [
+     23,
+     170
+    ],
+    [
+     34,
+     178
+    ],
+    [
+     41,
+     177
+    ],
+    [
+     44,
+     174
+    ],
+    [
+     47,
+     173
+    ],
+    [
+     53,
+     164
+    ],
+    [
+     53,
+     158
+    ],
+    [
+     51,
+     154
+    ]
+   ],
+   "area": 774.0,
+   "diameter": 31.39,
+   "circularity": 0.974,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c053",
+   "centroid_px": [
+    532.3,
+    167.9
+   ],
+   "bbox_px": [
+    515,
+    152,
+    35,
+    33
+   ],
+   "contour_px": [
+    [
+     528,
+     152
+    ],
+    [
+     523,
+     154
+    ],
+    [
+     517,
+     160
+    ],
+    [
+     518,
+     161
+    ],
+    [
+     515,
+     165
+    ],
+    [
+     515,
+     170
+    ],
+    [
+     518,
+     177
+    ],
+    [
+     523,
+     182
+    ],
+    [
+     528,
+     184
+    ],
+    [
+     536,
+     184
+    ],
+    [
+     541,
+     182
+    ],
+    [
+     548,
+     175
+    ],
+    [
+     549,
+     163
+    ],
+    [
+     545,
+     156
+    ],
+    [
+     535,
+     152
+    ]
+   ],
+   "area": 909.0,
+   "diameter": 34.02,
+   "circularity": 0.988,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c054",
+   "centroid_px": [
+    201.3,
+    182.2
+   ],
+   "bbox_px": [
+    183,
+    162,
+    37,
+    41
+   ],
+   "contour_px": [
+    [
+     197,
+     162
+    ],
+    [
+     191,
+     165
+    ],
+    [
+     186,
+     170
+    ],
+    [
+     184,
+     175
+    ],
+    [
+     183,
+     185
+    ],
+    [
+     186,
+     193
+    ],
+    [
+     193,
+     200
+    ],
+    [
+     197,
+     202
+    ],
+    [
+     207,
+     202
+    ],
+    [
+     213,
+     199
+    ],
+    [
+     218,
+     192
+    ],
+    [
+     219,
+     187
+    ],
+    [
+     218,
+     175
+    ],
+    [
+     214,
+     168
+    ],
+    [
+     206,
+     162
+    ]
+   ],
+   "area": 1200.0,
+   "diameter": 39.09,
+   "circularity": 0.998,
+   "pallor_ratio": 0.28,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c055",
+   "centroid_px": [
+    620.9,
+    179.1
+   ],
+   "bbox_px": [
+    604,
+    162,
+    34,
+    34
+   ],
+   "contour_px": [
+    [
+     614,
+     163
+    ],
+    [
+     605,
+     172
+    ],
+    [
+     604,
+     181
+    ],
+    [
+     606,
+     187
+    ],
+    [
+     610,
+     192
+    ],
+    [
+     616,
+     195
+    ],
+    [
+     628,
+     195
+    ],
+    [
+     632,
+     193
+    ],
+    [
+     637,
+     187
+    ],
+    [
+     637,
+     173
+    ],
+    [
+     631,
+     166
+    ],
+    [
+     625,
+     163
+    ],
+    [
+     620,
+     162
+    ]
+   ],
+   "area": 931.0,
+   "diameter": 34.43,
+   "circularity": 1.0,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": true,
+   "exclusion_reason": "touches_image_border"
+  },
+  {
+   "cell_id": "c056",
+   "centroid_px": [
+    586.0,
+    196.7
+   ],
+   "bbox_px": [
+    568,
+    181,
+    36,
+    32
+   ],
+   "contour_px": [
+    [
+     575,
+     184
+    ],
+    [
+     570,
+     189
+    ],
+    [
+     568,
+     194
+    ],
+    [
+     568,
+     198
+    ],
+    [
+     570,
+     203
+    ],
+    [
+     577,
+     210
+    ],
+    [
+     581,
+     212
+    ],
+    [
+     592,
+     212
+    ],
+    [
+     598,
+     209
+    ],
+    [
+     603,
+     202
+    ],
+    [
+     603,
+     192
+    ],
+    [
+     601,
+     188
+    ],
+    [
+     598,
+     185
+    ],
+    [
+     588,
+     181
+    ],
+    [
+     583,
+     181
+    ]
+   ],
+   "area": 906.0,
+   "diameter": 33.96,
+   "circularity": 1.0,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c057",
+   "centroid_px": [
+    90.8,
+    204.4
+   ],
+   "bbox_px": [
+    71,
+    185,
+    41,
+    40
+   ],
+   "contour_px": [
+    [
+     81,
+     186
+    ],
+    [
+     72,
+     197
+    ],
+    [
+     73,
+     204
+    ],
+    [
+     71,
+     206
+    ],
+    [
+     71,
+     208
+    ],
+    [
+     75,
+     212
+    ],
+    [
+     77,
+     217
+    ],
+    [
+     85,
+     223
+    ],
+    [
+     90,
+     224
+    ],
+    [
+     101,
+     223
+    ],
+    [
+     106,
+     217
+    ],
+    [
+     108,
+     211
+    ],
+    [
+     111,
+     208
+    ],
+    [
+     107,
+     196
+    ],
+    [
+     101,
+     188
+    ],
+    [
+     94,
+     185
+    ]
+   ],
+   "area": 1202.0,
+   "diameter": 39.12,
+   "circularity": 0.942,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c058",
+   "centroid_px": [
+    127.9,
+    204.7
+   ],
+   "bbox_px": [
+    112,
+    189,
+    32,
+    33
+   ],
+   "contour_px": [
+    [
+     133,
+     189
+    ],
+    [
+     123,
+     191
+    ],
+    [
+     117,
+     197
+    ],
+    [
+     115,
+     201
+    ],
+    [
+     115,
+     204
+    ],
+    [
+     112,
+     207
+    ],
+    [
+     112,
+     209
+    ],
+    [
+     119,
+     219
+    ],
+    [
+     125,
+     221
+    ],
+    [
+     131,
+     219
+    ],
+    [
+     139,
+     212
+    ],
+    [
+     142,
+     207
+    ],
+    [
+     143,
+     203
+    ],
+    [
+     142,
+     197
+    ],
+    [
+     136,
+     190
+    ]
+   ],
+   "area": 725.0,
+   "diameter": 30.38,
+   "circularity": 0.944,
+   "pallor_ratio": 0.22,
+   "shape_class": "microcyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c059",
+   "centroid_px": [
+    271.7,
+    210.4
+   ],
+   "bbox_px": [
+    253,
+    188,
+    41,
+    44
+   ],
+   "contour_px": [
+    [
+     287,
+     188
+    ],
+    [
+     283,
+     191
+    ],
+    [
+     282,
+     195
+    ],
+    [
+     279,
+     198
+    ],
+    [
+     266,
+     194
+    ],
+    [
+     263,
+     197
+    ],
+    [
+     259,
+     198
+    ],
+    [
+     257,
+     200
+    ],
+    [
+     253,
+     208
+    ],
+    [
+     253,
+     212
+    ],
+    [
+     256,
+     222
+    ],
+    [
+     263,
+     229
+    ],
+    [
+     269,
+     231
+    ],
+    [
+     275,
+     230
+    ],
+    [
+     283,
+     222
+    ],
+    [
+     285,
+     216
+    ],
+    [
+     284,
+     208
+    ],
+    [
+     287,
+     205
+    ],
+    [
+     289,
+     206
+    ],
+    [
+     293,
+     202
+    ],
+    [
+     289,
+     197
+    ],
+    [
+     288,
+     194
+    ],
+    [
+     289,
+     190
+    ]
+   ],
+   "area": 1082.0,
+   "diameter": 37.12,
+   "circularity": 0.694,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c060",
+   "centroid_px": [
+    337.1,
+    225.6
+   ],
+   "bbox_px": [
+    319,
+    206,
+    41,
+    39
+   ],
+   "contour_px": [
+    [
+     329,
+     207
+    ],
+    [
+     323,
+     214
+    ],
+    [
+     322,
+     222
+    ],
+    [
+     319,
+     225
+    ],
+    [
+     320,
+     230
+    ],
+    [
+     323,
+     233
+    ],
+    [
+     324,
+     238
+    ],
+    [
+     330,
+     243
+    ],
+    [
+     337,
+     244
+    ],
+    [
+     345,
+     240
+    ],
+    [
+     350,
+     235
+    ],
+    [
+     357,
+     242
+    ],
+    [
+     359,
+     240
+    ],
+    [
+     359,
+     237
+    ],
+    [
+     356,
+     233
+    ],
+    [
+     354,
+     233
+    ],
+    [
+     351,
+     230
+    ],
+    [
+     352,
+     228
+    ],
+    [
+     350,
+     222
+    ],
+    [
+     351,
+     220
+    ],
+    [
+     349,
+     218
+    ],
+    [
+     351,
+     216
+    ],
+    [
+     348,
+     213
+    ],
+    [
+     349,
+     212
+    ],
+    [
+     339,
+     206
+    ]
+   ],
+   "area": 1040.0,
+   "diameter": 36.39,
+   "circularity": 0.683,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c061",
+   "centroid_px": [
+    301.7,
+    226.6
+   ],
+   "bbox_px": [
+    286,
+    202,
+    34,
+    46
+   ],
+   "contour_px": [
+    [
+     294,
+     202
+    ],
+    [
+     289,
+     207
+    ],
+    [
+     296,
+     215
+    ],
+    [
+     287,
+     225
+    ],
+    [
+     286,
+     236
+    ],
+    [
+     287,
+     239
+    ],
+    [
+     291,
+     243
+    ],
+    [
+     303,
+     247
+    ],
+    [
+     309,
+     245
+    ],
+    [
+     314,
+     240
+    ],
+    [
+     319,
+     231
+    ],
+    [
+     319,
+     228
+    ],
+    [
+     311,
+     217
+    ],
+    [
+     315,
+     211
+    ],
+    [
+     312,
+     208
+    ],
+    [
+     308,
+     209
+    ],
+    [
+     301,
+     208
+    ]
+   ],
+   "area": 1032.0,
+   "diameter": 36.25,
+   "circularity": 0.694,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c062",
+   "centroid_px": [
+    462.8,
+    207.5
+   ],
+   "bbox_px": [
+    446,
+    190,
+    34,
+    36
+   ],
+   "contour_px": [
+    [
+     459,
+     190
+    ],
+    [
+     451,
+     196
+    ],
+    [
+     447,
+     204
+    ],
+    [
+     446,
+     210
+    ],
+    [
+     449,
+     217
+    ],
+    [
+     454,
+     222
+    ],
+    [
+     461,
+     225
+    ],
+    [
+     466,
+     225
+    ],
+    [
+     471,
+     223
+    ],
+    [
+     477,
+     216
+    ],
+    [
+     477,
+     214
+    ],
+    [
+     479,
+     212
+    ],
+    [
+     478,
+     210
+    ],
+    [
+     479,
+     203
+    ],
+    [
+     477,
+     199
+    ],
+    [
+     469,
+     191
+    ]
+   ],
+   "area": 919.0,
+   "diameter": 34.21,
+   "circularity": 0.981,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c063",
+   "centroid_px": [
+    369.4,
+    212.4
+   ],
+   "bbox_px": [
+    352,
+    195,
+    35,
+    36
+   ],
+   "contour_px": [
+    [
+     367,
+     195
+    ],
+    [
+     355,
+     203
+    ],
+    [
+     352,
+     211
+    ],
+    [
+     354,
+     213
+    ],
+    [
+     352,
+     215
+    ],
+    [
+     355,
+     218
+    ],
+    [
+     354,
+     219
+    ],
+    [
+     356,
+     221
+    ],
+    [
+     356,
+     223
+    ],
+    [
+     361,
+     228
+    ],
+    [
+     367,
+     230
+    ],
+    [
+     372,
+     230
+    ],
+    [
+     378,
+     227
+    ],
+    [
+     384,
+     221
+    ],
+    [
+     386,
+     211
+    ],
+    [
+     385,
+     210
+    ],
+    [
+     385,
+     205
+    ],
+    [
+     380,
+     198
+    ],
+    [
+     371,
+     195
+    ]
+   ],
+   "area": 943.0,
+   "diameter": 34.65,
+   "circularity": 0.936,
+   "pallor_ratio": 0.086,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c064",
+   "centroid_px": [
+    496.2,
+    222.4
+   ],
+   "bbox_px": [
+    479,
+    205,
+    35,
+    35
+   ],
+   "contour_px": [
+    [
+     493,
+     205
+    ],
+    [
+     490,
+     208
+    ],
+    [
+     488,
+     208
+    ],
+    [
+     482,
+     212
+    ],
+    [
+     483,
+     215
+    ],
+    [
+     479,
+     221
+    ],
+    [
+     479,
+     224
+    ],
+    [
+     482,
+     228
+    ],
+    [
+     482,
+     231
+    ],
+    [
+     487,
+     236
+    ],
+    [
+     495,
+     239
+    ],
+    [
+     501,
+     239
+    ],
+    [
+     504,
+     238
+    ],
+    [
+     511,
+     230
+    ],
+    [
+     513,
+     226
+    ],
+    [
+     512,
+     217
+    ],
+    [
+     504,
+     208
+    ]
+   ],
+   "area": 887.0,
+   "diameter": 33.61,
+   "circularity": 0.946,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c065",
+   "centroid_px": [
+    65.0,
+    261.6
+   ],
+   "bbox_px": [
+    43,
+    234,
+    46,
+    55
+   ],
+   "contour_px": [
+    [
+     67,
+     234
+    ],
+    [
+     65,
+     234
+    ],
+    [
+     59,
+     241
+    ],
+    [
+     57,
+     240
+    ],
+    [
+     53,
+     244
+    ],
+    [
+     45,
+     249
+    ],
+    [
+     46,
+     251
+    ],
+    [
+     43,
+     256
+    ],
+    [
+     44,
+     257
+    ],
+    [
+     44,
+     269
+    ],
+    [
+     45,
+     270
+    ],
+    [
+     45,
+     283
+    ],
+    [
+     47,
+     281
+    ],
+    [
+     53,
+     287
+    ],
+    [
+     59,
+     288
+    ],
+    [
+     68,
+     283
+    ],
+    [
+     77,
+     281
+    ],
+    [
+     84,
+     274
+    ],
+    [
+     87,
+     267
+    ],
+    [
+     88,
+     257
+    ],
+    [
+     84,
+     246
+    ],
+    [
+     79,
+     240
+    ]
+   ],
+   "area": 1828.0,
+   "diameter": 48.24,
+   "circularity": 0.871,
+   "pallor_ratio": 0.296,
+   "shape_class": null,
+   "shape_class_source": "none",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c066",
+   "centroid_px": [
+    37.7,
+    232.4
+   ],
+   "bbox_px": [
+    19,
+    216,
+    39,
+    34
+   ],
+   "contour_px": [
+    [
+     45,
+     217
+    ],
+    [
+     44,
+     218
+    ],
+    [
+     42,
+     216
+    ],
+    [
+     40,
+     217
+    ],
+    [
+     30,
+     217
+    ],
+    [
+     26,
+     219
+    ],
+    [
+     21,
+     224
+    ],
+    [
+     20,
+     223
+    ],
+    [
+     19,
+     233
+    ],
+    [
+     23,
+     241
+    ],
+    [
+     28,
+     246
+    ],
+    [
+     32,
+     248
+    ],
+    [
+     43,
+     248
+    ],
+    [
+     44,
+     249
+    ],
+    [
+     57,
+     239
+    ],
+    [
+     56,
+     238
+    ],
+    [
+     55,
+     228
+    ],
+    [
+     53,
+     224
+    ]
+   ],
+   "area": 982.0,
+   "diameter": 35.36,
+   "circularity": 0.924,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c067",
+   "centroid_px": [
+    33.4,
+    272.9
+   ],
+   "bbox_px": [
+    23,
+    257,
+    22,
+    33
+   ],
+   "contour_px": [
+    [
+     43,
+     257
+    ],
+    [
+     41,
+     258
+    ],
+    [
+     31,
+     257
+    ],
+    [
+     23,
+     261
+    ],
+    [
+     23,
+     285
+    ],
+    [
+     25,
+     287
+    ],
+    [
+     34,
+     289
+    ],
+    [
+     38,
+     288
+    ],
+    [
+     44,
+     284
+    ]
+   ],
+   "area": 652.0,
+   "diameter": 28.81,
+   "circularity": 0.886,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c068",
+   "centroid_px": [
+    11.7,
+    271.9
+   ],
+   "bbox_px": [
+    2,
+    256,
+    21,
+    33
+   ],
+   "contour_px": [
+    [
+     14,
+     256
+    ],
+    [
+     7,
+     256
+    ],
+    [
+     2,
+     259
+    ],
+    [
+     2,
+     286
+    ],
+    [
+     4,
+     288
+    ],
+    [
+     10,
+     288
+    ],
+    [
+     22,
+     284
+    ],
+    [
+     22,
+     260
+    ]
+   ],
+   "area": 636.0,
+   "diameter": 28.46,
+   "circularity": 0.903,
+   "pallor_ratio": 0.312,
+   "shape_class": null,
+   "shape_class_source": "none",
+   "excluded": true,
+   "exclusion_reason": "touches_image_border"
+  },
+  {
+   "cell_id": "c069",
+   "centroid_px": [
+    9.2,
+    223.0
+   ],
+   "bbox_px": [
+    2,
+    207,
+    18,
+    32
+   ],
+   "contour_px": [
+    [
+     4,
+     207
+    ],
+    [
+     2,
+     209
+    ],
+    [
+     2,
+     236
+    ],
+    [
+     4,
+     238
+    ],
+    [
+     7,
+     238
+    ],
+    [
+     12,
+     236
+    ],
+    [
+     17,
+     231
+    ],
+    [
+     18,
+     232
+    ],
+    [
+     19,
+     222
+    ],
+    [
+     16,
+     214
+    ],
+    [
+     12,
+     210
+    ]
+   ],
+   "area": 449.0,
+   "diameter": 23.91,
+   "circularity": 0.823,
+   "pallor_ratio": 0.0,
+   "shape_class": null,
+   "shape_class_source": "none",
+   "excluded": true,
+   "exclusion_reason": "touches_image_border"
+  },
+  {
+   "cell_id": "c070",
+   "centroid_px": [
+    211.5,
+    235.3
+   ],
+   "bbox_px": [
+    191,
+    216,
+    42,
+    40
+   ],
+   "contour_px": [
+    [
+     207,
+     216
+    ],
+    [
+     200,
+     219
+    ],
+    [
+     195,
+     223
+    ],
+    [
+     192,
+     229
+    ],
+    [
+     191,
+     236
+    ],
+    [
+     195,
+     246
+    ],
+    [
+     201,
+     252
+    ],
+    [
+     210,
+     255
+    ],
+    [
+     215,
+     255
+    ],
+    [
+     223,
+     252
+    ],
+    [
+     229,
+     246
+    ],
+    [
+     232,
+     237
+    ],
+    [
+     231,
+     230
+    ],
+    [
+     228,
+     224
+    ],
+    [
+     222,
+     219
+    ],
+    [
+     214,
+     216
+    ]
+   ],
+   "area": 1276.0,
+   "diameter": 40.31,
+   "circularity": 0.983,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c071",
+   "centroid_px": [
+    624.2,
+    235.0
+   ],
+   "bbox_px": [
+    609,
+    217,
+    29,
+    36
+   ],
+   "contour_px": [
+    [
+     629,
+     217
+    ],
+    [
+     624,
+     219
+    ],
+    [
+     620,
+     218
+    ],
+    [
+     618,
+     219
+    ],
+    [
+     609,
+     228
+    ],
+    [
+     609,
+     234
+    ],
+    [
+     610,
+     235
+    ],
+    [
+     609,
+     240
+    ],
+    [
+     612,
+     247
+    ],
+    [
+     614,
+     249
+    ],
+    [
+     617,
+     249
+    ],
+    [
+     623,
+     252
+    ],
+    [
+     632,
+     252
+    ],
+    [
+     637,
+     249
+    ],
+    [
+     637,
+     221
+    ],
+    [
+     635,
+     219
+    ]
+   ],
+   "area": 881.0,
+   "diameter": 33.49,
+   "circularity": 0.927,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": true,
+   "exclusion_reason": "touches_image_border"
+  },
+  {
+   "cell_id": "c072",
+   "centroid_px": [
+    164.9,
+    241.3
+   ],
+   "bbox_px": [
+    149,
+    225,
+    34,
+    35
+   ],
+   "contour_px": [
+    [
+     164,
+     225
+    ],
+    [
+     156,
+     227
+    ],
+    [
+     151,
+     231
+    ],
+    [
+     149,
+     236
+    ],
+    [
+     149,
+     244
+    ],
+    [
+     153,
+     253
+    ],
+    [
+     157,
+     257
+    ],
+    [
+     167,
+     259
+    ],
+    [
+     172,
+     254
+    ],
+    [
+     179,
+     250
+    ],
+    [
+     182,
+     246
+    ],
+    [
+     181,
+     245
+    ],
+    [
+     181,
+     236
+    ],
+    [
+     179,
+     232
+    ],
+    [
+     175,
+     228
+    ],
+    [
+     169,
+     225
+    ]
+   ],
+   "area": 891.0,
+   "diameter": 33.68,
+   "circularity": 0.969,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c073",
+   "centroid_px": [
+    183.6,
+    263.7
+   ],
+   "bbox_px": [
+    166,
+    247,
+    34,
+    33
+   ],
+   "contour_px": [
+    [
+     183,
+     247
+    ],
+    [
+     166,
+     260
+    ],
+    [
+     168,
+     262
+    ],
+    [
+     169,
+     271
+    ],
+    [
+     175,
+     277
+    ],
+    [
+     181,
+     279
+    ],
+    [
+     185,
+     279
+    ],
+    [
+     190,
+     277
+    ],
+    [
+     197,
+     271
+    ],
+    [
+     199,
+     267
+    ],
+    [
+     199,
+     258
+    ],
+    [
+     192,
+     250
+    ],
+    [
+     186,
+     249
+    ]
+   ],
+   "area": 776.0,
+   "diameter": 31.43,
+   "circularity": 0.947,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c074",
+   "centroid_px": [
+    582.3,
+    268.4
+   ],
+   "bbox_px": [
+    563,
+    250,
+    39,
+    38
+   ],
+   "contour_px": [
+    [
+     578,
+     250
+    ],
+    [
+     570,
+     253
+    ],
+    [
+     565,
+     258
+    ],
+    [
+     563,
+     263
+    ],
+    [
+     566,
+     266
+    ],
+    [
+     567,
+     283
+    ],
+    [
+     569,
+     285
+    ],
+    [
+     572,
+     284
+    ],
+    [
+     578,
+     287
+    ],
+    [
+     584,
+     287
+    ],
+    [
+     593,
+     284
+    ],
+    [
+     599,
+     278
+    ],
+    [
+     601,
+     274
+    ],
+    [
+     601,
+     264
+    ],
+    [
+     598,
+     258
+    ],
+    [
+     593,
+     253
+    ],
+    [
+     586,
+     250
+    ]
+   ],
+   "area": 1150.0,
+   "diameter": 38.27,
+   "circularity": 0.948,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c075",
+   "centroid_px": [
+    521.6,
+    252.8
+   ],
+   "bbox_px": [
+    503,
+    232,
+    38,
+    46
+   ],
+   "contour_px": [
+    [
+     526,
+     232
+    ],
+    [
+     521,
+     234
+    ],
+    [
+     516,
+     233
+    ],
+    [
+     507,
+     243
+    ],
+    [
+     503,
+     252
+    ],
+    [
+     506,
+     265
+    ],
+    [
+     514,
+     271
+    ],
+    [
+     517,
+     271
+    ],
+    [
+     522,
+     276
+    ],
+    [
+     525,
+     277
+    ],
+    [
+     526,
+     274
+    ],
+    [
+     525,
+     271
+    ],
+    [
+     528,
+     268
+    ],
+    [
+     534,
+     266
+    ],
+    [
+     536,
+     264
+    ],
+    [
+     536,
+     261
+    ],
+    [
+     539,
+     258
+    ],
+    [
+     539,
+     248
+    ],
+    [
+     540,
+     247
+    ],
+    [
+     536,
+     241
+    ],
+    [
+     536,
+     239
+    ]
+   ],
+   "area": 1158.0,
+   "diameter": 38.4,
+   "circularity": 0.843,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c076",
+   "centroid_px": [
+    529.0,
+    301.6
+   ],
+   "bbox_px": [
+    512,
+    285,
+    35,
+    32
+   ],
+   "contour_px": [
+    [
+     544,
+     292
+    ],
+    [
+     541,
+     289
+    ],
+    [
+     530,
+     288
+    ],
+    [
+     527,
+     285
+    ],
+    [
+     519,
+     289
+    ],
+    [
+     515,
+     293
+    ],
+    [
+     512,
+     301
+    ],
+    [
+     513,
+     307
+    ],
+    [
+     516,
+     312
+    ],
+    [
+     514,
+     315
+    ],
+    [
+     524,
+     315
+    ],
+    [
+     525,
+     316
+    ],
+    [
+     536,
+     316
+    ],
+    [
+     544,
+     309
+    ],
+    [
+     546,
+     305
+    ],
+    [
+     546,
+     298
+    ],
+    [
+     543,
+     293
+    ]
+   ],
+   "area": 863.0,
+   "diameter": 33.15,
+   "circularity": 0.888,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c077",
+   "centroid_px": [
+    549.1,
+    278.8
+   ],
+   "bbox_px": [
+    526,
+    263,
+    44,
+    31
+   ],
+   "contour_px": [
+    [
+     565,
+     266
+    ],
+    [
+     562,
+     263
+    ],
+    [
+     560,
+     265
+    ],
+    [
+     547,
+     265
+    ],
+    [
+     529,
+     274
+    ],
+    [
+     527,
+     273
+    ],
+    [
+     526,
+     278
+    ],
+    [
+     529,
+     282
+    ],
+    [
+     528,
+     285
+    ],
+    [
+     530,
+     287
+    ],
+    [
+     541,
+     288
+    ],
+    [
+     544,
+     291
+    ],
+    [
+     546,
+     290
+    ],
+    [
+     550,
+     293
+    ],
+    [
+     561,
+     293
+    ],
+    [
+     569,
+     286
+    ],
+    [
+     566,
+     283
+    ]
+   ],
+   "area": 942.0,
+   "diameter": 34.63,
+   "circularity": 0.763,
+   "pallor_ratio": 0.0,
+   "shape_class": null,
+   "shape_class_source": "none",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c078",
+   "centroid_px": [
+    524.9,
+    331.1
+   ],
+   "bbox_px": [
+    509,
+    316,
+    33,
+    33
+   ],
+   "contour_px": [
+    [
+     513,
+     316
+    ],
+    [
+     509,
+     320
+    ],
+    [
+     509,
+     325
+    ],
+    [
+     511,
+     330
+    ],
+    [
+     511,
+     334
+    ],
+    [
+     514,
+     339
+    ],
+    [
+     519,
+     344
+    ],
+    [
+     527,
+     348
+    ],
+    [
+     532,
+     348
+    ],
+    [
+     539,
+     343
+    ],
+    [
+     541,
+     335
+    ],
+    [
+     537,
+     326
+    ],
+    [
+     533,
+     321
+    ],
+    [
+     533,
+     319
+    ],
+    [
+     535,
+     317
+    ]
+   ],
+   "area": 807.0,
+   "diameter": 32.05,
+   "circularity": 0.872,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c079",
+   "centroid_px": [
+    258.6,
+    255.1
+   ],
+   "bbox_px": [
+    239,
+    235,
+    40,
+    41
+   ],
+   "contour_px": [
+    [
+     255,
+     235
+    ],
+    [
+     248,
+     238
+    ],
+    [
+     241,
+     246
+    ],
+    [
+     239,
+     252
+    ],
+    [
+     239,
+     260
+    ],
+    [
+     242,
+     267
+    ],
+    [
+     248,
+     273
+    ],
+    [
+     252,
+     275
+    ],
+    [
+     262,
+     275
+    ],
+    [
+     266,
+     274
+    ],
+    [
+     274,
+     268
+    ],
+    [
+     278,
+     259
+    ],
+    [
+     278,
+     249
+    ],
+    [
+     275,
+     243
+    ],
+    [
+     267,
+     236
+    ]
+   ],
+   "area": 1305.0,
+   "diameter": 40.76,
+   "circularity": 1.0,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c080",
+   "centroid_px": [
+    133.0,
+    259.8
+   ],
+   "bbox_px": [
+    116,
+    243,
+    35,
+    34
+   ],
+   "contour_px": [
+    [
+     127,
+     244
+    ],
+    [
+     119,
+     250
+    ],
+    [
+     116,
+     259
+    ],
+    [
+     117,
+     266
+    ],
+    [
+     126,
+     275
+    ],
+    [
+     129,
+     276
+    ],
+    [
+     135,
+     276
+    ],
+    [
+     136,
+     275
+    ],
+    [
+     138,
+     276
+    ],
+    [
+     147,
+     270
+    ],
+    [
+     150,
+     257
+    ],
+    [
+     143,
+     246
+    ],
+    [
+     132,
+     243
+    ]
+   ],
+   "area": 898.0,
+   "diameter": 33.81,
+   "circularity": 0.952,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c081",
+   "centroid_px": [
+    396.2,
+    274.7
+   ],
+   "bbox_px": [
+    381,
+    258,
+    32,
+    34
+   ],
+   "contour_px": [
+    [
+     395,
+     258
+    ],
+    [
+     388,
+     260
+    ],
+    [
+     382,
+     266
+    ],
+    [
+     381,
+     280
+    ],
+    [
+     383,
+     284
+    ],
+    [
+     389,
+     290
+    ],
+    [
+     399,
+     291
+    ],
+    [
+     406,
+     288
+    ],
+    [
+     411,
+     282
+    ],
+    [
+     412,
+     271
+    ],
+    [
+     410,
+     266
+    ],
+    [
+     405,
+     261
+    ]
+   ],
+   "area": 860.0,
+   "diameter": 33.09,
+   "circularity": 1.0,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c082",
+   "centroid_px": [
+    604.7,
+    310.1
+   ],
+   "bbox_px": [
+    586,
+    292,
+    38,
+    36
+   ],
+   "contour_px": [
+    [
+     619,
+     297
+    ],
+    [
+     610,
+     296
+    ],
+    [
+     606,
+     292
+    ],
+    [
+     596,
+     295
+    ],
+    [
+     590,
+     300
+    ],
+    [
+     587,
+     305
+    ],
+    [
+     586,
+     314
+    ],
+    [
+     588,
+     319
+    ],
+    [
+     594,
+     325
+    ],
+    [
+     599,
+     327
+    ],
+    [
+     608,
+     327
+    ],
+    [
+     613,
+     325
+    ],
+    [
+     622,
+     316
+    ],
+    [
+     623,
+     313
+    ],
+    [
+     623,
+     305
+    ],
+    [
+     622,
+     304
+    ],
+    [
+     623,
+     300
+    ]
+   ],
+   "area": 1043.0,
+   "diameter": 36.44,
+   "circularity": 0.954,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c083",
+   "centroid_px": [
+    621.6,
+    281.8
+   ],
+   "bbox_px": [
+    606,
+    265,
+    32,
+    36
+   ],
+   "contour_px": [
+    [
+     615,
+     265
+    ],
+    [
+     611,
+     268
+    ],
+    [
+     607,
+     274
+    ],
+    [
+     606,
+     282
+    ],
+    [
+     608,
+     287
+    ],
+    [
+     606,
+     291
+    ],
+    [
+     610,
+     295
+    ],
+    [
+     619,
+     296
+    ],
+    [
+     624,
+     300
+    ],
+    [
+     629,
+     299
+    ],
+    [
+     636,
+     293
+    ],
+    [
+     634,
+     289
+    ],
+    [
+     637,
+     284
+    ],
+    [
+     637,
+     277
+    ],
+    [
+     633,
+     270
+    ],
+    [
+     627,
+     265
+    ]
+   ],
+   "area": 900.0,
+   "diameter": 33.85,
+   "circularity": 0.9,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": true,
+   "exclusion_reason": "touches_image_border"
+  },
+  {
+   "cell_id": "c084",
+   "centroid_px": [
+    479.1,
+    285.4
+   ],
+   "bbox_px": [
+    461,
+    268,
+    38,
+    36
+   ],
+   "contour_px": [
+    [
+     485,
+     268
+    ],
+    [
+     472,
+     269
+    ],
+    [
+     461,
+     282
+    ],
+    [
+     461,
+     291
+    ],
+    [
+     463,
+     296
+    ],
+    [
+     468,
+     301
+    ],
+    [
+     476,
+     303
+    ],
+    [
+     484,
+     302
+    ],
+    [
+     488,
+     300
+    ],
+    [
+     495,
+     293
+    ],
+    [
+     498,
+     286
+    ],
+    [
+     497,
+     279
+    ],
+    [
+     491,
+     271
+    ]
+   ],
+   "area": 1051.0,
+   "diameter": 36.58,
+   "circularity": 1.0,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c085",
+   "centroid_px": [
+    153.2,
+    296.5
+   ],
+   "bbox_px": [
+    135,
+    278,
+    37,
+    37
+   ],
+   "contour_px": [
+    [
+     145,
+     280
+    ],
+    [
+     138,
+     286
+    ],
+    [
+     135,
+     293
+    ],
+    [
+     136,
+     303
+    ],
+    [
+     139,
+     308
+    ],
+    [
+     146,
+     313
+    ],
+    [
+     160,
+     314
+    ],
+    [
+     165,
+     311
+    ],
+    [
+     170,
+     305
+    ],
+    [
+     171,
+     302
+    ],
+    [
+     170,
+     290
+    ],
+    [
+     164,
+     282
+    ],
+    [
+     158,
+     279
+    ],
+    [
+     152,
+     278
+    ]
+   ],
+   "area": 1075.0,
+   "diameter": 37.0,
+   "circularity": 0.996,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c086",
+   "centroid_px": [
+    220.5,
+    301.9
+   ],
+   "bbox_px": [
+    202,
+    282,
+    39,
+    40
+   ],
+   "contour_px": [
+    [
+     209,
+     286
+    ],
+    [
+     205,
+     290
+    ],
+    [
+     202,
+     297
+    ],
+    [
+     202,
+     305
+    ],
+    [
+     205,
+     313
+    ],
+    [
+     210,
+     318
+    ],
+    [
+     215,
+     320
+    ],
+    [
+     224,
+     320
+    ],
+    [
+     226,
+     319
+    ],
+    [
+     228,
+     321
+    ],
+    [
+     231,
+     321
+    ],
+    [
+     239,
+     307
+    ],
+    [
+     238,
+     301
+    ],
+    [
+     240,
+     298
+    ],
+    [
+     237,
+     295
+    ],
+    [
+     236,
+     291
+    ],
+    [
+     226,
+     283
+    ],
+    [
+     222,
+     282
+    ],
+    [
+     216,
+     283
+    ]
+   ],
+   "area": 1180.0,
+   "diameter": 38.76,
+   "circularity": 0.937,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c087",
+   "centroid_px": [
+    259.9,
+    297.1
+   ],
+   "bbox_px": [
+    241,
+    281,
+    37,
+    34
+   ],
+   "contour_px": [
+    [
+     265,
+     281
+    ],
+    [
+     255,
+     281
+    ],
+    [
+     251,
+     283
+    ],
+    [
+     246,
+     288
+    ],
+    [
+     244,
+     294
+    ],
+    [
+     241,
+     297
+    ],
+    [
+     244,
+     301
+    ],
+    [
+     245,
+     306
+    ],
+    [
+     250,
+     311
+    ],
+    [
+     254,
+     313
+    ],
+    [
+     260,
+     314
+    ],
+    [
+     267,
+     312
+    ],
+    [
+     274,
+     306
+    ],
+    [
+     277,
+     299
+    ],
+    [
+     276,
+     290
+    ],
+    [
+     271,
+     284
+    ]
+   ],
+   "area": 925.0,
+   "diameter": 34.32,
+   "circularity": 0.977,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c088",
+   "centroid_px": [
+    229.2,
+    339.9
+   ],
+   "bbox_px": [
+    212,
+    322,
+    35,
+    35
+   ],
+   "contour_px": [
+    [
+     229,
+     322
+    ],
+    [
+     226,
+     325
+    ],
+    [
+     220,
+     326
+    ],
+    [
+     215,
+     330
+    ],
+    [
+     212,
+     339
+    ],
+    [
+     212,
+     344
+    ],
+    [
+     221,
+     354
+    ],
+    [
+     228,
+     356
+    ],
+    [
+     234,
+     356
+    ],
+    [
+     240,
+     353
+    ],
+    [
+     244,
+     349
+    ],
+    [
+     246,
+     344
+    ],
+    [
+     246,
+     336
+    ],
+    [
+     240,
+     328
+    ],
+    [
+     234,
+     325
+    ],
+    [
+     231,
+     322
+    ]
+   ],
+   "area": 903.0,
+   "diameter": 33.91,
+   "circularity": 0.978,
+   "pallor_ratio": 0.115,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c089",
+   "centroid_px": [
+    438.8,
+    301.1
+   ],
+   "bbox_px": [
+    420,
+    283,
+    39,
+    37
+   ],
+   "contour_px": [
+    [
+     433,
+     283
+    ],
+    [
+     426,
+     287
+    ],
+    [
+     421,
+     294
+    ],
+    [
+     420,
+     297
+    ],
+    [
+     421,
+     308
+    ],
+    [
+     426,
+     315
+    ],
+    [
+     433,
+     319
+    ],
+    [
+     447,
+     318
+    ],
+    [
+     455,
+     312
+    ],
+    [
+     458,
+     305
+    ],
+    [
+     458,
+     300
+    ],
+    [
+     455,
+     291
+    ],
+    [
+     446,
+     284
+    ]
+   ],
+   "area": 1144.0,
+   "diameter": 38.17,
+   "circularity": 0.995,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c090",
+   "centroid_px": [
+    75.8,
+    306.3
+   ],
+   "bbox_px": [
+    57,
+    287,
+    38,
+    39
+   ],
+   "contour_px": [
+    [
+     77,
+     287
+    ],
+    [
+     71,
+     288
+    ],
+    [
+     65,
+     291
+    ],
+    [
+     60,
+     296
+    ],
+    [
+     57,
+     302
+    ],
+    [
+     57,
+     310
+    ],
+    [
+     60,
+     317
+    ],
+    [
+     63,
+     320
+    ],
+    [
+     72,
+     325
+    ],
+    [
+     80,
+     325
+    ],
+    [
+     88,
+     321
+    ],
+    [
+     91,
+     318
+    ],
+    [
+     94,
+     312
+    ],
+    [
+     94,
+     301
+    ],
+    [
+     91,
+     295
+    ],
+    [
+     87,
+     291
+    ]
+   ],
+   "area": 1143.0,
+   "diameter": 38.15,
+   "circularity": 0.99,
+   "pallor_ratio": 0.122,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c091",
+   "centroid_px": [
+    315.7,
+    322.1
+   ],
+   "bbox_px": [
+    295,
+    306,
+    41,
+    34
+   ],
+   "contour_px": [
+    [
+     300,
+     310
+    ],
+    [
+     296,
+     314
+    ],
+    [
+     295,
+     317
+    ],
+    [
+     299,
+     329
+    ],
+    [
+     305,
+     335
+    ],
+    [
+     314,
+     339
+    ],
+    [
+     321,
+     339
+    ],
+    [
+     328,
+     336
+    ],
+    [
+     332,
+     332
+    ],
+    [
+     335,
+     325
+    ],
+    [
+     335,
+     319
+    ],
+    [
+     333,
+     314
+    ],
+    [
+     328,
+     309
+    ],
+    [
+     314,
+     306
+    ],
+    [
+     313,
+     307
+    ],
+    [
+     307,
+     307
+    ]
+   ],
+   "area": 1056.0,
+   "diameter": 36.67,
+   "circularity": 0.966,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c092",
+   "centroid_px": [
+    475.7,
+    360.5
+   ],
+   "bbox_px": [
+    456,
+    338,
+    41,
+    44
+   ],
+   "contour_px": [
+    [
+     473,
+     338
+    ],
+    [
+     466,
+     341
+    ],
+    [
+     460,
+     346
+    ],
+    [
+     456,
+     356
+    ],
+    [
+     456,
+     363
+    ],
+    [
+     458,
+     370
+    ],
+    [
+     464,
+     378
+    ],
+    [
+     470,
+     381
+    ],
+    [
+     481,
+     381
+    ],
+    [
+     489,
+     377
+    ],
+    [
+     494,
+     370
+    ],
+    [
+     495,
+     367
+    ],
+    [
+     494,
+     353
+    ],
+    [
+     496,
+     350
+    ],
+    [
+     492,
+     346
+    ],
+    [
+     481,
+     344
+    ]
+   ],
+   "area": 1366.0,
+   "diameter": 41.7,
+   "circularity": 0.938,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c093",
+   "centroid_px": [
+    491.4,
+    333.3
+   ],
+   "bbox_px": [
+    474,
+    319,
+    33,
+    32
+   ],
+   "contour_px": [
+    [
+     489,
+     319
+    ],
+    [
+     480,
+     324
+    ],
+    [
+     476,
+     331
+    ],
+    [
+     476,
+     335
+    ],
+    [
+     474,
+     337
+    ],
+    [
+     481,
+     343
+    ],
+    [
+     492,
+     345
+    ],
+    [
+     497,
+     350
+    ],
+    [
+     503,
+     345
+    ],
+    [
+     506,
+     338
+    ],
+    [
+     505,
+     330
+    ],
+    [
+     500,
+     321
+    ],
+    [
+     495,
+     319
+    ]
+   ],
+   "area": 705.0,
+   "diameter": 29.96,
+   "circularity": 0.887,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c094",
+   "centroid_px": [
+    61.4,
+    341.8
+   ],
+   "bbox_px": [
+    46,
+    325,
+    32,
+    33
+   ],
+   "contour_px": [
+    [
+     59,
+     325
+    ],
+    [
+     54,
+     327
+    ],
+    [
+     47,
+     334
+    ],
+    [
+     46,
+     346
+    ],
+    [
+     47,
+     349
+    ],
+    [
+     53,
+     355
+    ],
+    [
+     58,
+     357
+    ],
+    [
+     68,
+     357
+    ],
+    [
+     76,
+     350
+    ],
+    [
+     77,
+     339
+    ],
+    [
+     75,
+     334
+    ],
+    [
+     70,
+     329
+    ]
+   ],
+   "area": 822.0,
+   "diameter": 32.35,
+   "circularity": 1.0,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c095",
+   "centroid_px": [
+    171.5,
+    341.8
+   ],
+   "bbox_px": [
+    154,
+    325,
+    35,
+    35
+   ],
+   "contour_px": [
+    [
+     164,
+     326
+    ],
+    [
+     159,
+     330
+    ],
+    [
+     154,
+     339
+    ],
+    [
+     157,
+     351
+    ],
+    [
+     161,
+     355
+    ],
+    [
+     169,
+     359
+    ],
+    [
+     177,
+     358
+    ],
+    [
+     182,
+     356
+    ],
+    [
+     188,
+     348
+    ],
+    [
+     188,
+     338
+    ],
+    [
+     185,
+     332
+    ],
+    [
+     180,
+     327
+    ],
+    [
+     176,
+     325
+    ]
+   ],
+   "area": 945.0,
+   "diameter": 34.69,
+   "circularity": 0.992,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c096",
+   "centroid_px": [
+    433.5,
+    342.8
+   ],
+   "bbox_px": [
+    412,
+    325,
+    44,
+    36
+   ],
+   "contour_px": [
+    [
+     452,
+     332
+    ],
+    [
+     450,
+     330
+    ],
+    [
+     441,
+     329
+    ],
+    [
+     437,
+     325
+    ],
+    [
+     427,
+     327
+    ],
+    [
+     420,
+     331
+    ],
+    [
+     417,
+     331
+    ],
+    [
+     415,
+     333
+    ],
+    [
+     415,
+     337
+    ],
+    [
+     412,
+     346
+    ],
+    [
+     416,
+     351
+    ],
+    [
+     416,
+     354
+    ],
+    [
+     420,
+     357
+    ],
+    [
+     424,
+     357
+    ],
+    [
+     430,
+     360
+    ],
+    [
+     434,
+     360
+    ],
+    [
+     443,
+     356
+    ],
+    [
+     448,
+     357
+    ],
+    [
+     450,
+     355
+    ],
+    [
+     452,
+     348
+    ],
+    [
+     455,
+     343
+    ],
+    [
+     455,
+     340
+    ],
+    [
+     452,
+     337
+    ]
+   ],
+   "area": 1156.0,
+   "diameter": 38.36,
+   "circularity": 0.878,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c097",
+   "centroid_px": [
+    392.3,
+    343.9
+   ],
+   "bbox_px": [
+    377,
+    329,
+    32,
+    30
+   ],
+   "contour_px": [
+    [
+     382,
+     332
+    ],
+    [
+     379,
+     335
+    ],
+    [
+     377,
+     341
+    ],
+    [
+     377,
+     345
+    ],
+    [
+     380,
+     351
+    ],
+    [
+     384,
+     355
+    ],
+    [
+     391,
+     358
+    ],
+    [
+     402,
+     357
+    ],
+    [
+     406,
+     353
+    ],
+    [
+     408,
+     346
+    ],
+    [
+     405,
+     338
+    ],
+    [
+     398,
+     331
+    ],
+    [
+     393,
+     329
+    ],
+    [
+     388,
+     329
+    ]
+   ],
+   "area": 721.0,
+   "diameter": 30.3,
+   "circularity": 0.985,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c098",
+   "centroid_px": [
+    115.2,
+    353.8
+   ],
+   "bbox_px": [
+    97,
+    338,
+    37,
+    33
+   ],
+   "contour_px": [
+    [
+     106,
+     339
+    ],
+    [
+     99,
+     346
+    ],
+    [
+     97,
+     357
+    ],
+    [
+     101,
+     361
+    ],
+    [
+     102,
+     365
+    ],
+    [
+     106,
+     368
+    ],
+    [
+     110,
+     368
+    ],
+    [
+     112,
+     370
+    ],
+    [
+     121,
+     370
+    ],
+    [
+     123,
+     369
+    ],
+    [
+     132,
+     360
+    ],
+    [
+     132,
+     354
+    ],
+    [
+     133,
+     353
+    ],
+    [
+     132,
+     347
+    ],
+    [
+     126,
+     340
+    ],
+    [
+     121,
+     340
+    ],
+    [
+     118,
+     338
+    ]
+   ],
+   "area": 939.0,
+   "diameter": 34.58,
+   "circularity": 0.986,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c099",
+   "centroid_px": [
+    546.2,
+    365.4
+   ],
+   "bbox_px": [
+    527,
+    346,
+    39,
+    40
+   ],
+   "contour_px": [
+    [
+     543,
+     346
+    ],
+    [
+     528,
+     357
+    ],
+    [
+     529,
+     363
+    ],
+    [
+     527,
+     368
+    ],
+    [
+     530,
+     371
+    ],
+    [
+     531,
+     376
+    ],
+    [
+     539,
+     383
+    ],
+    [
+     549,
+     385
+    ],
+    [
+     554,
+     382
+    ],
+    [
+     557,
+     382
+    ],
+    [
+     559,
+     380
+    ],
+    [
+     560,
+     376
+    ],
+    [
+     563,
+     373
+    ],
+    [
+     563,
+     368
+    ],
+    [
+     565,
+     365
+    ],
+    [
+     565,
+     361
+    ],
+    [
+     562,
+     358
+    ],
+    [
+     560,
+     353
+    ],
+    [
+     554,
+     347
+    ]
+   ],
+   "area": 1123.0,
+   "diameter": 37.81,
+   "circularity": 0.936,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c100",
+   "centroid_px": [
+    620.5,
+    406.6
+   ],
+   "bbox_px": [
+    603,
+    388,
+    35,
+    39
+   ],
+   "contour_px": [
+    [
+     620,
+     388
+    ],
+    [
+     618,
+     390
+    ],
+    [
+     614,
+     390
+    ],
+    [
+     610,
+     392
+    ],
+    [
+     605,
+     398
+    ],
+    [
+     603,
+     405
+    ],
+    [
+     603,
+     412
+    ],
+    [
+     604,
+     413
+    ],
+    [
+     603,
+     415
+    ],
+    [
+     609,
+     420
+    ],
+    [
+     619,
+     421
+    ],
+    [
+     626,
+     426
+    ],
+    [
+     635,
+     418
+    ],
+    [
+     637,
+     414
+    ],
+    [
+     637,
+     401
+    ],
+    [
+     630,
+     392
+    ],
+    [
+     626,
+     389
+    ]
+   ],
+   "area": 1011.0,
+   "diameter": 35.88,
+   "circularity": 0.942,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": true,
+   "exclusion_reason": "touches_image_border"
+  },
+  {
+   "cell_id": "c101",
+   "centroid_px": [
+    606.4,
+    433.8
+   ],
+   "bbox_px": [
+    590,
+    415,
+    36,
+    37
+   ],
+   "contour_px": [
+    [
+     590,
+     421
+    ],
+    [
+     590,
+     438
+    ],
+    [
+     593,
+     441
+    ],
+    [
+     592,
+     443
+    ],
+    [
+     597,
+     448
+    ],
+    [
+     607,
+     451
+    ],
+    [
+     613,
+     451
+    ],
+    [
+     616,
+     450
+    ],
+    [
+     621,
+     445
+    ],
+    [
+     623,
+     439
+    ],
+    [
+     623,
+     429
+    ],
+    [
+     625,
+     427
+    ],
+    [
+     621,
+     423
+    ],
+    [
+     609,
+     421
+    ],
+    [
+     602,
+     415
+    ],
+    [
+     597,
+     417
+    ],
+    [
+     591,
+     422
+    ]
+   ],
+   "area": 974.0,
+   "diameter": 35.22,
+   "circularity": 0.882,
+   "pallor_ratio": 0.0,
+   "shape_class": null,
+   "shape_class_source": "none",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c102",
+   "centroid_px": [
+    572.7,
+    421.1
+   ],
+   "bbox_px": [
+    553,
+    402,
+    37,
+    43
+   ],
+   "contour_px": [
+    [
+     567,
+     402
+    ],
+    [
+     556,
+     410
+    ],
+    [
+     553,
+     415
+    ],
+    [
+     553,
+     422
+    ],
+    [
+     558,
+     427
+    ],
+    [
+     566,
+     426
+    ],
+    [
+     569,
+     429
+    ],
+    [
+     566,
+     433
+    ],
+    [
+     560,
+     433
+    ],
+    [
+     558,
+     436
+    ],
+    [
+     562,
+     439
+    ],
+    [
+     567,
+     439
+    ],
+    [
+     572,
+     444
+    ],
+    [
+     577,
+     439
+    ],
+    [
+     584,
+     439
+    ],
+    [
+     587,
+     436
+    ],
+    [
+     589,
+     438
+    ],
+    [
+     589,
+     420
+    ],
+    [
+     587,
+     416
+    ],
+    [
+     587,
+     412
+    ],
+    [
+     589,
+     408
+    ],
+    [
+     586,
+     405
+    ],
+    [
+     579,
+     404
+    ],
+    [
+     575,
+     402
+    ]
+   ],
+   "area": 1152.0,
+   "diameter": 38.3,
+   "circularity": 0.631,
+   "pallor_ratio": 0.0,
+   "shape_class": null,
+   "shape_class_source": "none",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c103",
+   "centroid_px": [
+    625.9,
+    367.9
+   ],
+   "bbox_px": [
+    612,
+    347,
+    26,
+    42
+   ],
+   "contour_px": [
+    [
+     634,
+     347
+    ],
+    [
+     630,
+     347
+    ],
+    [
+     622,
+     350
+    ],
+    [
+     616,
+     356
+    ],
+    [
+     612,
+     364
+    ],
+    [
+     613,
+     377
+    ],
+    [
+     616,
+     382
+    ],
+    [
+     621,
+     387
+    ],
+    [
+     627,
+     388
+    ],
+    [
+     629,
+     386
+    ],
+    [
+     635,
+     386
+    ],
+    [
+     637,
+     384
+    ],
+    [
+     637,
+     350
+    ]
+   ],
+   "area": 889.0,
+   "diameter": 33.64,
+   "circularity": 0.904,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": true,
+   "exclusion_reason": "touches_image_border"
+  },
+  {
+   "cell_id": "c104",
+   "centroid_px": [
+    44.2,
+    378.1
+   ],
+   "bbox_px": [
+    26,
+    358,
+    40,
+    42
+   ],
+   "contour_px": [
+    [
+     40,
+     358
+    ],
+    [
+     33,
+     361
+    ],
+    [
+     26,
+     368
+    ],
+    [
+     26,
+     388
+    ],
+    [
+     32,
+     394
+    ],
+    [
+     39,
+     396
+    ],
+    [
+     44,
+     399
+    ],
+    [
+     47,
+     399
+    ],
+    [
+     55,
+     395
+    ],
+    [
+     60,
+     390
+    ],
+    [
+     62,
+     386
+    ],
+    [
+     62,
+     383
+    ],
+    [
+     65,
+     380
+    ],
+    [
+     65,
+     377
+    ],
+    [
+     62,
+     374
+    ],
+    [
+     63,
+     372
+    ],
+    [
+     60,
+     367
+    ],
+    [
+     55,
+     362
+    ],
+    [
+     47,
+     358
+    ]
+   ],
+   "area": 1269.0,
+   "diameter": 40.2,
+   "circularity": 0.974,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c105",
+   "centroid_px": [
+    82.4,
+    372.4
+   ],
+   "bbox_px": [
+    66,
+    356,
+    34,
+    33
+   ],
+   "contour_px": [
+    [
+     89,
+     357
+    ],
+    [
+     82,
+     356
+    ],
+    [
+     76,
+     358
+    ],
+    [
+     70,
+     363
+    ],
+    [
+     66,
+     371
+    ],
+    [
+     68,
+     374
+    ],
+    [
+     66,
+     376
+    ],
+    [
+     66,
+     380
+    ],
+    [
+     77,
+     388
+    ],
+    [
+     86,
+     388
+    ],
+    [
+     92,
+     385
+    ],
+    [
+     96,
+     381
+    ],
+    [
+     96,
+     377
+    ],
+    [
+     99,
+     374
+    ],
+    [
+     99,
+     370
+    ],
+    [
+     96,
+     363
+    ]
+   ],
+   "area": 845.0,
+   "diameter": 32.8,
+   "circularity": 0.948,
+   "pallor_ratio": 0.286,
+   "shape_class": "microcyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c106",
+   "centroid_px": [
+    12.7,
+    378.0
+   ],
+   "bbox_px": [
+    2,
+    360,
+    24,
+    38
+   ],
+   "contour_px": [
+    [
+     15,
+     360
+    ],
+    [
+     5,
+     360
+    ],
+    [
+     2,
+     363
+    ],
+    [
+     2,
+     394
+    ],
+    [
+     4,
+     396
+    ],
+    [
+     8,
+     397
+    ],
+    [
+     18,
+     394
+    ],
+    [
+     25,
+     387
+    ],
+    [
+     25,
+     368
+    ],
+    [
+     19,
+     362
+    ]
+   ],
+   "area": 794.0,
+   "diameter": 31.8,
+   "circularity": 0.938,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": true,
+   "exclusion_reason": "touches_image_border"
+  },
+  {
+   "cell_id": "c107",
+   "centroid_px": [
+    152.5,
+    374.3
+   ],
+   "bbox_px": [
+    135,
+    357,
+    36,
+    35
+   ],
+   "contour_px": [
+    [
+     149,
+     357
+    ],
+    [
+     142,
+     361
+    ],
+    [
+     138,
+     365
+    ],
+    [
+     135,
+     373
+    ],
+    [
+     136,
+     381
+    ],
+    [
+     142,
+     388
+    ],
+    [
+     150,
+     391
+    ],
+    [
+     158,
+     390
+    ],
+    [
+     164,
+     387
+    ],
+    [
+     168,
+     383
+    ],
+    [
+     170,
+     379
+    ],
+    [
+     170,
+     372
+    ],
+    [
+     168,
+     367
+    ],
+    [
+     162,
+     361
+    ],
+    [
+     154,
+     357
+    ]
+   ],
+   "area": 943.0,
+   "diameter": 34.65,
+   "circularity": 0.986,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c108",
+   "centroid_px": [
+    324.9,
+    374.8
+   ],
+   "bbox_px": [
+    308,
+    357,
+    35,
+    36
+   ],
+   "contour_px": [
+    [
+     324,
+     357
+    ],
+    [
+     317,
+     359
+    ],
+    [
+     311,
+     364
+    ],
+    [
+     308,
+     371
+    ],
+    [
+     308,
+     378
+    ],
+    [
+     311,
+     385
+    ],
+    [
+     316,
+     390
+    ],
+    [
+     320,
+     392
+    ],
+    [
+     330,
+     392
+    ],
+    [
+     334,
+     390
+    ],
+    [
+     339,
+     385
+    ],
+    [
+     341,
+     381
+    ],
+    [
+     342,
+     373
+    ],
+    [
+     339,
+     365
+    ],
+    [
+     333,
+     359
+    ]
+   ],
+   "area": 977.0,
+   "diameter": 35.27,
+   "circularity": 1.0,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c109",
+   "centroid_px": [
+    426.2,
+    383.7
+   ],
+   "bbox_px": [
+    408,
+    366,
+    37,
+    38
+   ],
+   "contour_px": [
+    [
+     431,
+     366
+    ],
+    [
+     421,
+     366
+    ],
+    [
+     416,
+     368
+    ],
+    [
+     410,
+     374
+    ],
+    [
+     408,
+     379
+    ],
+    [
+     408,
+     387
+    ],
+    [
+     410,
+     392
+    ],
+    [
+     414,
+     397
+    ],
+    [
+     421,
+     400
+    ],
+    [
+     424,
+     403
+    ],
+    [
+     426,
+     401
+    ],
+    [
+     433,
+     401
+    ],
+    [
+     437,
+     399
+    ],
+    [
+     442,
+     394
+    ],
+    [
+     444,
+     389
+    ],
+    [
+     443,
+     376
+    ],
+    [
+     438,
+     370
+    ]
+   ],
+   "area": 1083.0,
+   "diameter": 37.13,
+   "circularity": 0.99,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c110",
+   "centroid_px": [
+    376.3,
+    383.3
+   ],
+   "bbox_px": [
+    360,
+    367,
+    34,
+    33
+   ],
+   "contour_px": [
+    [
+     366,
+     369
+    ],
+    [
+     360,
+     377
+    ],
+    [
+     360,
+     386
+    ],
+    [
+     363,
+     392
+    ],
+    [
+     367,
+     396
+    ],
+    [
+     373,
+     399
+    ],
+    [
+     386,
+     398
+    ],
+    [
+     392,
+     391
+    ],
+    [
+     393,
+     382
+    ],
+    [
+     390,
+     375
+    ],
+    [
+     381,
+     368
+    ],
+    [
+     373,
+     367
+    ]
+   ],
+   "area": 883.0,
+   "diameter": 33.53,
+   "circularity": 0.999,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c111",
+   "centroid_px": [
+    213.2,
+    383.8
+   ],
+   "bbox_px": [
+    195,
+    369,
+    37,
+    30
+   ],
+   "contour_px": [
+    [
+     196,
+     379
+    ],
+    [
+     195,
+     388
+    ],
+    [
+     199,
+     394
+    ],
+    [
+     209,
+     398
+    ],
+    [
+     222,
+     397
+    ],
+    [
+     227,
+     394
+    ],
+    [
+     231,
+     389
+    ],
+    [
+     230,
+     378
+    ],
+    [
+     226,
+     373
+    ],
+    [
+     221,
+     370
+    ],
+    [
+     208,
+     369
+    ],
+    [
+     204,
+     371
+    ]
+   ],
+   "area": 883.0,
+   "diameter": 33.53,
+   "circularity": 0.989,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c112",
+   "centroid_px": [
+    492.3,
+    398.5
+   ],
+   "bbox_px": [
+    475,
+    383,
+    35,
+    33
+   ],
+   "contour_px": [
+    [
+     495,
+     383
+    ],
+    [
+     491,
+     383
+    ],
+    [
+     481,
+     387
+    ],
+    [
+     478,
+     390
+    ],
+    [
+     475,
+     396
+    ],
+    [
+     475,
+     400
+    ],
+    [
+     479,
+     408
+    ],
+    [
+     482,
+     411
+    ],
+    [
+     486,
+     413
+    ],
+    [
+     490,
+     413
+    ],
+    [
+     492,
+     415
+    ],
+    [
+     496,
+     412
+    ],
+    [
+     499,
+     412
+    ],
+    [
+     504,
+     409
+    ],
+    [
+     509,
+     403
+    ],
+    [
+     509,
+     394
+    ],
+    [
+     506,
+     389
+    ]
+   ],
+   "area": 845.0,
+   "diameter": 32.8,
+   "circularity": 0.962,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c113",
+   "centroid_px": [
+    288.3,
+    427.7
+   ],
+   "bbox_px": [
+    268,
+    410,
+    41,
+    36
+   ],
+   "contour_px": [
+    [
+     287,
+     410
+    ],
+    [
+     278,
+     414
+    ],
+    [
+     271,
+     421
+    ],
+    [
+     270,
+     420
+    ],
+    [
+     268,
+     427
+    ],
+    [
+     273,
+     439
+    ],
+    [
+     277,
+     443
+    ],
+    [
+     280,
+     443
+    ],
+    [
+     283,
+     445
+    ],
+    [
+     293,
+     445
+    ],
+    [
+     300,
+     441
+    ],
+    [
+     305,
+     436
+    ],
+    [
+     308,
+     424
+    ],
+    [
+     304,
+     417
+    ],
+    [
+     299,
+     412
+    ],
+    [
+     292,
+     410
+    ]
+   ],
+   "area": 1094.0,
+   "diameter": 37.32,
+   "circularity": 0.953,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c114",
+   "centroid_px": [
+    253.8,
+    412.5
+   ],
+   "bbox_px": [
+    239,
+    395,
+    31,
+    36
+   ],
+   "contour_px": [
+    [
+     249,
+     395
+    ],
+    [
+     244,
+     397
+    ],
+    [
+     239,
+     404
+    ],
+    [
+     240,
+     416
+    ],
+    [
+     243,
+     422
+    ],
+    [
+     249,
+     428
+    ],
+    [
+     258,
+     430
+    ],
+    [
+     263,
+     428
+    ],
+    [
+     266,
+     425
+    ],
+    [
+     267,
+     426
+    ],
+    [
+     268,
+     425
+    ],
+    [
+     269,
+     420
+    ],
+    [
+     268,
+     411
+    ],
+    [
+     264,
+     402
+    ],
+    [
+     260,
+     398
+    ],
+    [
+     253,
+     395
+    ]
+   ],
+   "area": 838.0,
+   "diameter": 32.66,
+   "circularity": 0.934,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c115",
+   "centroid_px": [
+    26.0,
+    417.7
+   ],
+   "bbox_px": [
+    8,
+    400,
+    37,
+    36
+   ],
+   "contour_px": [
+    [
+     38,
+     403
+    ],
+    [
+     31,
+     400
+    ],
+    [
+     24,
+     400
+    ],
+    [
+     16,
+     404
+    ],
+    [
+     13,
+     407
+    ],
+    [
+     9,
+     415
+    ],
+    [
+     8,
+     423
+    ],
+    [
+     11,
+     429
+    ],
+    [
+     17,
+     435
+    ],
+    [
+     30,
+     435
+    ],
+    [
+     42,
+     424
+    ],
+    [
+     44,
+     419
+    ],
+    [
+     44,
+     413
+    ],
+    [
+     42,
+     407
+    ]
+   ],
+   "area": 1021.0,
+   "diameter": 36.06,
+   "circularity": 0.997,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c116",
+   "centroid_px": [
+    81.2,
+    420.0
+   ],
+   "bbox_px": [
+    63,
+    401,
+    38,
+    39
+   ],
+   "contour_px": [
+    [
+     78,
+     401
+    ],
+    [
+     70,
+     405
+    ],
+    [
+     64,
+     411
+    ],
+    [
+     63,
+     424
+    ],
+    [
+     70,
+     434
+    ],
+    [
+     75,
+     436
+    ],
+    [
+     78,
+     439
+    ],
+    [
+     90,
+     437
+    ],
+    [
+     96,
+     431
+    ],
+    [
+     100,
+     424
+    ],
+    [
+     99,
+     423
+    ],
+    [
+     99,
+     414
+    ],
+    [
+     90,
+     404
+    ],
+    [
+     86,
+     404
+    ]
+   ],
+   "area": 1076.0,
+   "diameter": 37.01,
+   "circularity": 0.967,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c117",
+   "centroid_px": [
+    175.5,
+    437.0
+   ],
+   "bbox_px": [
+    159,
+    419,
+    35,
+    36
+   ],
+   "contour_px": [
+    [
+     185,
+     419
+    ],
+    [
+     183,
+     421
+    ],
+    [
+     179,
+     420
+    ],
+    [
+     174,
+     422
+    ],
+    [
+     165,
+     423
+    ],
+    [
+     162,
+     426
+    ],
+    [
+     159,
+     433
+    ],
+    [
+     159,
+     443
+    ],
+    [
+     166,
+     451
+    ],
+    [
+     174,
+     454
+    ],
+    [
+     178,
+     454
+    ],
+    [
+     187,
+     450
+    ],
+    [
+     191,
+     446
+    ],
+    [
+     193,
+     440
+    ],
+    [
+     189,
+     435
+    ],
+    [
+     188,
+     422
+    ]
+   ],
+   "area": 922.0,
+   "diameter": 34.26,
+   "circularity": 0.904,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c118",
+   "centroid_px": [
+    202.5,
+    419.7
+   ],
+   "bbox_px": [
+    186,
+    402,
+    35,
+    38
+   ],
+   "contour_px": [
+    [
+     212,
+     404
+    ],
+    [
+     209,
+     404
+    ],
+    [
+     205,
+     402
+    ],
+    [
+     197,
+     402
+    ],
+    [
+     189,
+     408
+    ],
+    [
+     186,
+     419
+    ],
+    [
+     189,
+     422
+    ],
+    [
+     190,
+     435
+    ],
+    [
+     193,
+     439
+    ],
+    [
+     202,
+     438
+    ],
+    [
+     210,
+     435
+    ],
+    [
+     218,
+     425
+    ],
+    [
+     220,
+     420
+    ],
+    [
+     220,
+     416
+    ],
+    [
+     217,
+     409
+    ]
+   ],
+   "area": 976.0,
+   "diameter": 35.25,
+   "circularity": 0.926,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c119",
+   "centroid_px": [
+    418.7,
+    422.6
+   ],
+   "bbox_px": [
+    402,
+    404,
+    34,
+    37
+   ],
+   "contour_px": [
+    [
+     423,
+     404
+    ],
+    [
+     421,
+     406
+    ],
+    [
+     414,
+     406
+    ],
+    [
+     410,
+     408
+    ],
+    [
+     405,
+     413
+    ],
+    [
+     402,
+     419
+    ],
+    [
+     403,
+     430
+    ],
+    [
+     406,
+     435
+    ],
+    [
+     412,
+     439
+    ],
+    [
+     421,
+     440
+    ],
+    [
+     426,
+     438
+    ],
+    [
+     432,
+     433
+    ],
+    [
+     435,
+     427
+    ],
+    [
+     435,
+     417
+    ],
+    [
+     432,
+     411
+    ]
+   ],
+   "area": 954.0,
+   "diameter": 34.85,
+   "circularity": 0.978,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c120",
+   "centroid_px": [
+    128.6,
+    432.0
+   ],
+   "bbox_px": [
+    106,
+    414,
+    52,
+    39
+   ],
+   "contour_px": [
+    [
+     155,
+     416
+    ],
+    [
+     150,
+     416
+    ],
+    [
+     144,
+     421
+    ],
+    [
+     141,
+     418
+    ],
+    [
+     137,
+     418
+    ],
+    [
+     132,
+     414
+    ],
+    [
+     130,
+     414
+    ],
+    [
+     128,
+     416
+    ],
+    [
+     125,
+     416
+    ],
+    [
+     122,
+     414
+    ],
+    [
+     117,
+     419
+    ],
+    [
+     113,
+     420
+    ],
+    [
+     110,
+     423
+    ],
+    [
+     106,
+     438
+    ],
+    [
+     110,
+     442
+    ],
+    [
+     110,
+     444
+    ],
+    [
+     118,
+     451
+    ],
+    [
+     126,
+     450
+    ],
+    [
+     129,
+     452
+    ],
+    [
+     132,
+     452
+    ],
+    [
+     145,
+     441
+    ],
+    [
+     144,
+     436
+    ],
+    [
+     146,
+     433
+    ],
+    [
+     146,
+     429
+    ],
+    [
+     143,
+     426
+    ],
+    [
+     146,
+     423
+    ],
+    [
+     148,
+     425
+    ],
+    [
+     155,
+     424
+    ],
+    [
+     157,
+     422
+    ],
+    [
+     157,
+     418
+    ]
+   ],
+   "area": 1269.0,
+   "diameter": 40.2,
+   "circularity": 0.63,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c121",
+   "centroid_px": [
+    490.5,
+    437.0
+   ],
+   "bbox_px": [
+    471,
+    417,
+    39,
+    40
+   ],
+   "contour_px": [
+    [
+     493,
+     417
+    ],
+    [
+     490,
+     419
+    ],
+    [
+     485,
+     419
+    ],
+    [
+     480,
+     421
+    ],
+    [
+     473,
+     429
+    ],
+    [
+     472,
+     428
+    ],
+    [
+     471,
+     439
+    ],
+    [
+     473,
+     441
+    ],
+    [
+     476,
+     449
+    ],
+    [
+     482,
+     454
+    ],
+    [
+     487,
+     456
+    ],
+    [
+     495,
+     456
+    ],
+    [
+     502,
+     453
+    ],
+    [
+     508,
+     445
+    ],
+    [
+     508,
+     443
+    ],
+    [
+     506,
+     441
+    ],
+    [
+     509,
+     438
+    ],
+    [
+     509,
+     432
+    ],
+    [
+     506,
+     425
+    ],
+    [
+     502,
+     421
+    ],
+    [
+     498,
+     419
+    ],
+    [
+     495,
+     419
+    ]
+   ],
+   "area": 1178.0,
+   "diameter": 38.73,
+   "circularity": 0.924,
+   "pallor_ratio": 0.267,
+   "shape_class": null,
+   "shape_class_source": "none",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c122",
+   "centroid_px": [
+    454.7,
+    430.6
+   ],
+   "bbox_px": [
+    439,
+    414,
+    33,
+    34
+   ],
+   "contour_px": [
+    [
+     454,
+     414
+    ],
+    [
+     447,
+     416
+    ],
+    [
+     442,
+     421
+    ],
+    [
+     439,
+     431
+    ],
+    [
+     439,
+     435
+    ],
+    [
+     445,
+     444
+    ],
+    [
+     452,
+     447
+    ],
+    [
+     457,
+     447
+    ],
+    [
+     462,
+     444
+    ],
+    [
+     469,
+     437
+    ],
+    [
+     470,
+     438
+    ],
+    [
+     471,
+     427
+    ],
+    [
+     463,
+     417
+    ]
+   ],
+   "area": 826.0,
+   "diameter": 32.43,
+   "circularity": 0.951,
+   "pallor_ratio": 0.085,
+   "shape_class": "microcyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c123",
+   "centroid_px": [
+    231.9,
+    444.0
+   ],
+   "bbox_px": [
+    213,
+    425,
+    39,
+    39
+   ],
+   "contour_px": [
+    [
+     228,
+     425
+    ],
+    [
+     223,
+     427
+    ],
+    [
+     216,
+     434
+    ],
+    [
+     213,
+     442
+    ],
+    [
+     213,
+     448
+    ],
+    [
+     215,
+     454
+    ],
+    [
+     221,
+     460
+    ],
+    [
+     229,
+     463
+    ],
+    [
+     235,
+     463
+    ],
+    [
+     242,
+     460
+    ],
+    [
+     248,
+     454
+    ],
+    [
+     251,
+     447
+    ],
+    [
+     251,
+     441
+    ],
+    [
+     248,
+     433
+    ],
+    [
+     241,
+     427
+    ],
+    [
+     237,
+     425
+    ]
+   ],
+   "area": 1178.0,
+   "diameter": 38.73,
+   "circularity": 1.0,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c124",
+   "centroid_px": [
+    346.3,
+    447.5
+   ],
+   "bbox_px": [
+    327,
+    428,
+    40,
+    40
+   ],
+   "contour_px": [
+    [
+     342,
+     428
+    ],
+    [
+     335,
+     431
+    ],
+    [
+     330,
+     436
+    ],
+    [
+     327,
+     444
+    ],
+    [
+     328,
+     454
+    ],
+    [
+     332,
+     461
+    ],
+    [
+     340,
+     467
+    ],
+    [
+     341,
+     466
+    ],
+    [
+     346,
+     467
+    ],
+    [
+     347,
+     466
+    ],
+    [
+     353,
+     466
+    ],
+    [
+     357,
+     464
+    ],
+    [
+     364,
+     457
+    ],
+    [
+     366,
+     452
+    ],
+    [
+     366,
+     444
+    ],
+    [
+     364,
+     439
+    ],
+    [
+     358,
+     432
+    ],
+    [
+     348,
+     428
+    ]
+   ],
+   "area": 1237.0,
+   "diameter": 39.69,
+   "circularity": 0.982,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": false,
+   "exclusion_reason": null
+  },
+  {
+   "cell_id": "c125",
+   "centroid_px": [
+    600.4,
+    468.4
+   ],
+   "bbox_px": [
+    566,
+    455,
+    72,
+    23
+   ],
+   "contour_px": [
+    [
+     566,
+     475
+    ],
+    [
+     568,
+     477
+    ],
+    [
+     635,
+     477
+    ],
+    [
+     637,
+     475
+    ],
+    [
+     637,
+     457
+    ],
+    [
+     635,
+     455
+    ],
+    [
+     629,
+     462
+    ],
+    [
+     630,
+     465
+    ],
+    [
+     627,
+     468
+    ],
+    [
+     623,
+     465
+    ],
+    [
+     613,
+     465
+    ],
+    [
+     604,
+     468
+    ],
+    [
+     601,
+     465
+    ],
+    [
+     600,
+     462
+    ],
+    [
+     593,
+     456
+    ],
+    [
+     590,
+     455
+    ],
+    [
+     578,
+     456
+    ],
+    [
+     571,
+     461
+    ],
+    [
+     568,
+     473
+    ]
+   ],
+   "area": 1175.0,
+   "diameter": 38.68,
+   "circularity": 0.423,
+   "pallor_ratio": 0.083,
+   "shape_class": null,
+   "shape_class_source": "none",
+   "excluded": true,
+   "exclusion_reason": "touches_image_border"
+  },
+  {
+   "cell_id": "c126",
+   "centroid_px": [
+    463.2,
+    467.7
+   ],
+   "bbox_px": [
+    446,
+    456,
+    36,
+    22
+   ],
+   "contour_px": [
+    [
+     446,
+     467
+    ],
+    [
+     446,
+     475
+    ],
+    [
+     448,
+     477
+    ],
+    [
+     479,
+     477
+    ],
+    [
+     481,
+     475
+    ],
+    [
+     481,
+     469
+    ],
+    [
+     478,
+     463
+    ],
+    [
+     473,
+     458
+    ],
+    [
+     468,
+     456
+    ],
+    [
+     457,
+     456
+    ],
+    [
+     453,
+     458
+    ],
+    [
+     448,
+     463
+    ]
+   ],
+   "area": 670.0,
+   "diameter": 29.21,
+   "circularity": 0.912,
+   "pallor_ratio": 0.0,
+   "shape_class": "spherocyte",
+   "shape_class_source": "annotation",
+   "excluded": true,
+   "exclusion_reason": "touches_image_border"
+  },
+  {
+   "cell_id": "c127",
+   "centroid_px": [
+    486.8,
+    5.1
+   ],
+   "bbox_px": [
+    476,
+    2,
+    23,
+    8
+   ],
+   "contour_px": [
+    [
+     476,
+     4
+    ],
+    [
+     481,
+     9
+    ],
+    [
+     490,
+     9
+    ],
+    [
+     495,
+     7
+    ],
+    [
+     498,
+     4
+    ],
+    [
+     496,
+     2
+    ],
+    [
+     478,
+     2
+    ]
+   ],
+   "area": 144.0,
+   "diameter": 13.54,
+   "circularity": 0.727,
+   "pallor_ratio": 0.0,
+   "shape_class": null,
+   "shape_class_source": "none",
+   "excluded": true,
+   "exclusion_reason": "touches_image_border"
+  },
+  {
+   "cell_id": "c128",
+   "centroid_px": [
+    631.6,
+    40.8
+   ],
+   "bbox_px": [
+    623,
+    26,
+    15,
+    30
+   ],
+   "contour_px": [
+    [
+     634,
+     26
+    ],
+    [
+     627,
+     32
+    ],
+    [
+     625,
+     36
+    ],
+    [
+     625,
+     39
+    ],
+    [
+     623,
+     41
+    ],
+    [
+     625,
+     43
+    ],
+    [
+     625,
+     47
+    ],
+    [
+     630,
+     53
+    ],
+    [
+     635,
+     55
+    ],
+    [
+     637,
+     53
+    ],
+    [
+     637,
+     28
+    ]
+   ],
+   "area": 313.0,
+   "diameter": 19.96,
+   "circularity": 0.771,
+   "pallor_ratio": 0.0,
+   "shape_class": null,
+   "shape_class_source": "none",
+   "excluded": true,
+   "exclusion_reason": "touches_image_border"
+  },
+  {
+   "cell_id": "c129",
+   "centroid_px": [
+    634.7,
+    130.6
+   ],
+   "bbox_px": [
+    632,
+    121,
+    6,
+    20
+   ],
+   "contour_px": [
+    [
+     635,
+     121
+    ],
+    [
+     632,
+     126
+    ],
+    [
+     632,
+     136
+    ],
+    [
+     635,
+     140
+    ],
+    [
+     637,
+     138
+    ],
+    [
+     637,
+     123
+    ]
+   ],
+   "area": 99.0,
+   "diameter": 11.23,
+   "circularity": 0.684,
+   "pallor_ratio": 0.0,
+   "shape_class": null,
+   "shape_class_source": "none",
+   "excluded": true,
+   "exclusion_reason": "touches_image_border"
+  },
+  {
+   "cell_id": "c130",
+   "centroid_px": [
+    285.8,
+    177.9
+   ],
+   "bbox_px": [
+    282,
+    174,
+    10,
+    9
+   ],
+   "contour_px": [
+    [
+     284,
+     174
+    ],
+    [
+     282,
+     176
+    ],
+    [
+     282,
+     180
+    ],
+    [
+     284,
+     182
+    ],
+    [
+     287,
+     182
+    ],
+    [
+     291,
+     177
+    ],
+    [
+     287,
+     174
+    ]
+   ],
+   "area": 65.0,
+   "diameter": 9.1,
+   "circularity": 0.984,
+   "pallor_ratio": 0.0,
+   "shape_class": null,
+   "shape_class_source": "none",
+   "excluded": true,
+   "exclusion_reason": "too_small_platelet_or_debris"
+  },
+  {
+   "cell_id": "c131",
+   "centroid_px": [
+    634.7,
+    440.5
+   ],
+   "bbox_px": [
+    632,
+    435,
+    6,
+    12
+   ],
+   "contour_px": [
+    [
+     635,
+     435
+    ],
+    [
+     632,
+     438
+    ],
+    [
+     632,
+     443
+    ],
+    [
+     635,
+     446
+    ],
+    [
+     637,
+     444
+    ],
+    [
+     637,
+     437
+    ]
+   ],
+   "area": 54.0,
+   "diameter": 8.29,
+   "circularity": 0.9,
+   "pallor_ratio": 0.0,
+   "shape_class": null,
+   "shape_class_source": "none",
+   "excluded": true,
+   "exclusion_reason": "touches_image_border"
+  },
+  {
+   "cell_id": "c132",
+   "centroid_px": [
+    4.8,
+    446.0
+   ],
+   "bbox_px": [
+    2,
+    436,
+    8,
+    21
+   ],
+   "contour_px": [
+    [
+     4,
+     436
+    ],
+    [
+     2,
+     438
+    ],
+    [
+     2,
+     454
+    ],
+    [
+     4,
+     456
+    ],
+    [
+     7,
+     453
+    ],
+    [
+     9,
+     446
+    ],
+    [
+     8,
+     441
+    ]
+   ],
+   "area": 121.0,
+   "diameter": 12.41,
+   "circularity": 0.715,
+   "pallor_ratio": 0.0,
+   "shape_class": null,
+   "shape_class_source": "none",
+   "excluded": true,
+   "exclusion_reason": "touches_image_border"
+  },
+  {
+   "cell_id": "c133",
+   "centroid_px": [
+    59.1,
+    473.9
+   ],
+   "bbox_px": [
+    48,
+    469,
+    23,
+    9
+   ],
+   "contour_px": [
+    [
+     70,
+     475
+    ],
+    [
+     62,
+     469
+    ],
+    [
+     53,
+     471
+    ],
+    [
+     48,
+     475
+    ],
+    [
+     50,
+     477
+    ],
+    [
+     68,
+     477
+    ]
+   ],
+   "area": 145.0,
+   "diameter": 13.59,
+   "circularity": 0.709,
+   "pallor_ratio": 0.0,
+   "shape_class": null,
+   "shape_class_source": "none",
+   "excluded": true,
+   "exclusion_reason": "touches_image_border"
+  },
+  {
+   "cell_id": "c134",
+   "centroid_px": [
+    337.5,
+    474.4
+   ],
+   "bbox_px": [
+    327,
+    470,
+    22,
+    8
+   ],
+   "contour_px": [
+    [
+     348,
+     475
+    ],
+    [
+     339,
+     470
+    ],
+    [
+     331,
+     472
+    ],
+    [
+     327,
+     475
+    ],
+    [
+     329,
+     477
+    ],
+    [
+     346,
+     477
+    ]
+   ],
+   "area": 120.0,
+   "diameter": 12.36,
+   "circularity": 0.655,
+   "pallor_ratio": 0.0,
+   "shape_class": null,
+   "shape_class_source": "none",
+   "excluded": true,
+   "exclusion_reason": "touches_image_border"
+  },
+  {
+   "cell_id": "c135",
+   "centroid_px": [
+    403.9,
+    474.7
+   ],
+   "bbox_px": [
+    394,
+    472,
+    21,
+    6
+   ],
+   "contour_px": [
+    [
+     394,
+     475
+    ],
+    [
+     396,
+     477
+    ],
+    [
+     412,
+     477
+    ],
+    [
+     414,
+     475
+    ],
+    [
+     409,
+     472
+    ],
+    [
+     398,
+     472
+    ]
+   ],
+   "area": 105.0,
+   "diameter": 11.56,
+   "circularity": 0.665,
+   "pallor_ratio": 0.0,
+   "shape_class": null,
+   "shape_class_source": "none",
+   "excluded": true,
+   "exclusion_reason": "touches_image_border"
+  }
+ ]
+}

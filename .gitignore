@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+# Secrets
+.env
+# Node
+frontend/node_modules/
+frontend/dist/
+# Data: downloaded dataset and generated runs stay local
+external/
+backend/data/runs/*
+!backend/data/runs/.gitkeep
+backend/data/samples/*/population.json
+# OS / editors
+.DS_Store
+.idea/
+.vscode/

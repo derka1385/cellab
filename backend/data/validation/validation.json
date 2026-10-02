@@ -1,0 +1,265 @@
+{
+ "what": "Does measured central pallor separate annotated spherocytes from normal RBCs?",
+ "dataset": "Chula RBC-12 (MIT License), github.com/Chula-PIC-Lab/Chula-RBC-12-Dataset",
+ "created_utc": "2026-10-02T13:12:17+00:00",
+ "split": "even",
+ "split_note": "pallor threshold tuned on odd image ids; this run uses held-out even ids",
+ "segmentation_method": [
+  "otsu_fill_watershed"
+ ],
+ "pallor_threshold": 0.3,
+ "si_mapping": {
+  "function": "celllab_physics.si_from_pallor",
+  "si_discocyte": 0.74,
+  "si_spherocyte": 0.92,
+  "pallor_ratio_normal": 0.4
+ },
+ "n_images": 205,
+ "annotations": {
+  "normal": 3221,
+  "spherocyte": 1843,
+  "matched_to_a_segmented_region": {
+   "normal": 3159,
+   "spherocyte": 1826
+  },
+  "kept_after_exclusions": {
+   "normal": 2738,
+   "spherocyte": 1625
+  }
+ },
+ "normal": {
+  "n_cells": 2738,
+  "pallor_ratio_median": 0.3665,
+  "pallor_ratio_iqr": [
+   0.282,
+   0.439
+  ],
+  "pallor_zero_fraction": 0.0541,
+  "si_median": 0.7551,
+  "si_iqr": [
+   0.74,
+   0.7931
+  ],
+  "fraction_si_gt_0.85": 0.1008
+ },
+ "spherocyte": {
+  "n_cells": 1625,
+  "pallor_ratio_median": 0.0,
+  "pallor_ratio_iqr": [
+   0.0,
+   0.0
+  ],
+  "pallor_zero_fraction": 0.936,
+  "si_median": 0.92,
+  "si_iqr": [
+   0.92,
+   0.92
+  ],
+  "fraction_si_gt_0.85": 0.968
+ },
+ "auc_si_spherocyte_vs_normal": 0.9634,
+ "auc_ci95_image_bootstrap": [
+  0.951,
+  0.9739
+ ],
+ "auc_si_mixed_images_only": {
+  "auc": 0.9534,
+  "n_images": 39,
+  "n_normal": 1050,
+  "n_spherocyte": 706,
+  "note": "images with >= 3 annotated normal AND >= 3 spherocytes: limits the between-image (staining / magnification / patient) confound"
+ },
+ "per_class_all_annotations": {
+  "burr_cell": {
+   "n_cells": 227,
+   "pallor_ratio_median": 0.395,
+   "pallor_ratio_iqr": [
+    0.204,
+    0.495
+   ],
+   "pallor_zero_fraction": 0.1586,
+   "si_median": 0.7422,
+   "si_iqr": [
+    0.74,
+    0.8282
+   ],
+   "fraction_si_gt_0.85": 0.2026
+  },
+  "hypochromia": {
+   "n_cells": 244,
+   "pallor_ratio_median": 0.5495,
+   "pallor_ratio_iqr": [
+    0.519,
+    0.589
+   ],
+   "pallor_zero_fraction": 0.0,
+   "si_median": 0.74,
+   "si_iqr": [
+    0.74,
+    0.74
+   ],
+   "fraction_si_gt_0.85": 0.0
+  },
+  "macrocyte": {
+   "n_cells": 245,
+   "pallor_ratio_median": 0.329,
+   "pallor_ratio_iqr": [
+    0.215,
+    0.411
+   ],
+   "pallor_zero_fraction": 0.1061,
+   "si_median": 0.772,
+   "si_iqr": [
+    0.74,
+    0.8233
+   ],
+   "fraction_si_gt_0.85": 0.1837
+  },
+  "microcyte": {
+   "n_cells": 178,
+   "pallor_ratio_median": 0.3125,
+   "pallor_ratio_iqr": [
+    0.2182,
+    0.3835
+   ],
+   "pallor_zero_fraction": 0.0562,
+   "si_median": 0.7794,
+   "si_iqr": [
+    0.7474,
+    0.8218
+   ],
+   "fraction_si_gt_0.85": 0.1517
+  },
+  "normal": {
+   "n_cells": 2738,
+   "pallor_ratio_median": 0.3665,
+   "pallor_ratio_iqr": [
+    0.282,
+    0.439
+   ],
+   "pallor_zero_fraction": 0.0541,
+   "si_median": 0.7551,
+   "si_iqr": [
+    0.74,
+    0.7931
+   ],
+   "fraction_si_gt_0.85": 0.1008
+  },
+  "ovalocyte": {
+   "n_cells": 958,
+   "pallor_ratio_median": 0.279,
+   "pallor_ratio_iqr": [
+    0.074,
+    0.38
+   ],
+   "pallor_zero_fraction": 0.2234,
+   "si_median": 0.7944,
+   "si_iqr": [
+    0.749,
+    0.8867
+   ],
+   "fraction_si_gt_0.85": 0.31
+  },
+  "schistocyte": {
+   "n_cells": 179,
+   "pallor_ratio_median": 0.26,
+   "pallor_ratio_iqr": [
+    0.0,
+    0.4265
+   ],
+   "pallor_zero_fraction": 0.352,
+   "si_median": 0.803,
+   "si_iqr": [
+    0.74,
+    0.92
+   ],
+   "fraction_si_gt_0.85": 0.3911
+  },
+  "spherocyte": {
+   "n_cells": 1625,
+   "pallor_ratio_median": 0.0,
+   "pallor_ratio_iqr": [
+    0.0,
+    0.0
+   ],
+   "pallor_zero_fraction": 0.936,
+   "si_median": 0.92,
+   "si_iqr": [
+    0.92,
+    0.92
+   ],
+   "fraction_si_gt_0.85": 0.968
+  },
+  "stomatocyte": {
+   "n_cells": 790,
+   "pallor_ratio_median": 0.4715,
+   "pallor_ratio_iqr": [
+    0.436,
+    0.503
+   ],
+   "pallor_zero_fraction": 0.0,
+   "si_median": 0.74,
+   "si_iqr": [
+    0.74,
+    0.74
+   ],
+   "fraction_si_gt_0.85": 0.0
+  },
+  "target_cell": {
+   "n_cells": 593,
+   "pallor_ratio_median": 0.503,
+   "pallor_ratio_iqr": [
+    0.406,
+    0.551
+   ],
+   "pallor_zero_fraction": 0.1568,
+   "si_median": 0.74,
+   "si_iqr": [
+    0.74,
+    0.74
+   ],
+   "fraction_si_gt_0.85": 0.1602
+  },
+  "teardrop": {
+   "n_cells": 56,
+   "pallor_ratio_median": 0.3675,
+   "pallor_ratio_iqr": [
+    0.2755,
+    0.4693
+   ],
+   "pallor_zero_fraction": 0.1071,
+   "si_median": 0.7546,
+   "si_iqr": [
+    0.74,
+    0.796
+   ],
+   "fraction_si_gt_0.85": 0.1607
+  },
+  "uncategorised": {
+   "n_cells": 32,
+   "pallor_ratio_median": 0.3,
+   "pallor_ratio_iqr": [
+    0.1287,
+    0.4435
+   ],
+   "pallor_zero_fraction": 0.2188,
+   "si_median": 0.785,
+   "si_iqr": [
+    0.74,
+    0.8621
+   ],
+   "fraction_si_gt_0.85": 0.3125
+  }
+ },
+ "provenance": {
+  "pallor_ratio": "MEASURED",
+  "si": "INFERRED",
+  "auc": "COMPUTED"
+ },
+ "caveats": [
+  "Spherocyte-rich images come from few patients/slides: part of the separation may reflect slide-level differences; see auc_si_mixed_images_only.",
+  "Labels are single expert point annotations; not every cell in an image is annotated.",
+  "SI is inferred by a linear map of pallor; the AUC validates the ranking, not the absolute SI values."
+ ],
+ "runtime_s": 78.9
+}

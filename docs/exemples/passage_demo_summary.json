@@ -1,0 +1,53 @@
+{
+  "healthy": {
+    "D50_um": 2.945,
+    "median_MCD_um": 2.944
+  },
+  "spherocytosis": {
+    "D50_um": 3.179,
+    "median_MCD_um": 3.18
+  },
+  "note": "Synthetic populations for demo purposes only. Not patient data.",
+  "example_single_cell": {
+    "capillary_diameter_um": 2.8,
+    "mcd_um": 2.845359069718531,
+    "mcd_at_lysis_um": 2.744719284779572,
+    "surface_reserve": -0.013024114576834722,
+    "area_strain_needed": 0.013195980539332686,
+    "verdict": "PASSES_UNDER_STRAIN",
+    "stiffness_hypothesis": null,
+    "caveat": "",
+    "provenance": "COMPUTED"
+  },
+  "experiment_proposal": {
+    "most_discriminating_width_um": 3.08,
+    "suggested_constriction_widths_um": [
+      2.83,
+      3.08,
+      3.33
+    ],
+    "predicted_pass_fraction": {
+      "2.83": {
+        "healthy": 0.225,
+        "spherocytosis": 0.057
+      },
+      "3.08": {
+        "healthy": 0.823,
+        "spherocytosis": 0.361
+      },
+      "3.33": {
+        "healthy": 0.991,
+        "spherocytosis": 0.661
+      }
+    },
+    "cells_per_sample_for_power": 17,
+    "statistics": "two-proportion z-test, alpha=0.05, power=0.8",
+    "hypothesis": "At 3.08 \u00b5m, healthy passes at 82% vs spherocytosis at 36%, driven by surface-to-volume ratio alone.",
+    "falsified_if": "Measured pass fractions do not differ, or the difference disappears after osmotic swelling/shrinking controls.",
+    "caveats": [
+      "Model assumes cylindrical channels; rectangular microfluidic channels need an equivalent-diameter correction.",
+      "Stiffness is not modelled; rigid cells may fail where geometry allows passage."
+    ],
+    "provenance": "COMPUTED"
+  }
+}

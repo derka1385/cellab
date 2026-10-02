@@ -1,0 +1,172 @@
+{
+ "title": "synthetic_hs shows a spherical subpopulation that fails 3.12 µm channels",
+ "summary": "synthetic_hs contains a high-sphericity subpopulation (39% of cells) whose surface-to-volume ratio is too low to pass narrow channels; this is compatible with a spherocytic phenotype, to be confirmed. Proposed test: constrictions at 2.87, 3.12, 3.37 µm with 18 cells per sample.",
+ "findings": [
+  {
+   "text": "39% of cells in synthetic_hs have a sphericity index above 0.8 (INFERRED SI; threshold is a HYPOTHESIS), versus 1% in synthetic_healthy.",
+   "numbers": [
+    {
+     "value": 0.39,
+     "unit": "fraction",
+     "provenance": "COMPUTED",
+     "tool_call_id": "tc_07"
+    },
+    {
+     "value": 0.8,
+     "unit": "",
+     "provenance": "HYPOTHESIS",
+     "tool_call_id": null
+    },
+    {
+     "value": 0.01,
+     "unit": "fraction",
+     "provenance": "COMPUTED",
+     "tool_call_id": "tc_05"
+    }
+   ]
+  },
+  {
+   "text": "This subpopulation has a median minimum cylindrical diameter of 3.53 µm versus 3.03 µm for the rest of synthetic_hs (COMPUTED): with less surface for its volume it cannot fold into a 3 µm capsule; 97% of it is BLOCKED at 3 µm.",
+   "numbers": [
+    {
+     "value": 3.53,
+     "unit": "µm",
+     "provenance": "COMPUTED",
+     "tool_call_id": "tc_07"
+    },
+    {
+     "value": 3.03,
+     "unit": "µm",
+     "provenance": "COMPUTED",
+     "tool_call_id": "tc_07"
+    },
+    {
+     "value": 0.966,
+     "unit": "fraction",
+     "provenance": "COMPUTED",
+     "tool_call_id": "tc_07"
+    }
+   ]
+  },
+  {
+   "text": "D50 (width where half the cells pass without stretch) is 3.16 µm for synthetic_hs versus 2.99 µm for synthetic_healthy (COMPUTED). At 3.12 µm the model predicts 87% passage for synthetic_healthy and 43% for synthetic_hs.",
+   "numbers": [
+    {
+     "value": 3.16,
+     "unit": "µm",
+     "provenance": "COMPUTED",
+     "tool_call_id": "tc_08"
+    },
+    {
+     "value": 2.99,
+     "unit": "µm",
+     "provenance": "COMPUTED",
+     "tool_call_id": "tc_08"
+    },
+    {
+     "value": 0.869,
+     "unit": "fraction",
+     "provenance": "COMPUTED",
+     "tool_call_id": "tc_13"
+    },
+    {
+     "value": 0.431,
+     "unit": "fraction",
+     "provenance": "COMPUTED",
+     "tool_call_id": "tc_13"
+    }
+   ]
+  },
+  {
+   "text": "Worst cell c275 is BLOCKED at 3.12 µm: it would need 22% area strain, beyond the 3% lysis limit (COMPUTED). A 2x stiffness (HYPOTHESIS) cannot change a geometric BLOCKED verdict.",
+   "numbers": [
+    {
+     "value": 0.221,
+     "unit": "fraction",
+     "provenance": "COMPUTED",
+     "tool_call_id": "tc_12"
+    },
+    {
+     "value": 0.03,
+     "unit": "fraction",
+     "provenance": "COMPUTED",
+     "tool_call_id": "tc_05"
+    },
+    {
+     "value": 2.0,
+     "unit": "x normal",
+     "provenance": "HYPOTHESIS",
+     "tool_call_id": null
+    }
+   ]
+  },
+  {
+   "text": "CBC flag for synthetic_hs: RDW-CV 17.5% (CONSTRAINED) vs 9.76% implied by the image diameters (MEASURED): the smear may under-represent the size spread; to be confirmed on another field.",
+   "numbers": [
+    {
+     "value": 17.5,
+     "unit": "%",
+     "provenance": "CONSTRAINED",
+     "tool_call_id": "tc_04"
+    },
+    {
+     "value": 9.76,
+     "unit": "%",
+     "provenance": "MEASURED",
+     "tool_call_id": "tc_04"
+    }
+   ]
+  }
+ ],
+ "consistency_flags": [
+  {
+   "check": "RDW_vs_diameter_CV",
+   "status": "INCOHERENT",
+   "rdw_cv_pct": 17.5,
+   "image_diameter_cv_pct": 3.25,
+   "implied_rdw_from_image_pct": 9.76,
+   "note": "Approximation V∝D³; smear artefacts widen the image CV.",
+   "sample_id": "synthetic_hs"
+  }
+ ],
+ "experiment": {
+  "most_discriminating_width_um": 3.12,
+  "suggested_constriction_widths_um": [
+   2.87,
+   3.12,
+   3.37
+  ],
+  "predicted_pass_fraction": {
+   "2.87": {
+    "synthetic_healthy": 0.126,
+    "synthetic_hs": 0.077
+   },
+   "3.12": {
+    "synthetic_healthy": 0.869,
+    "synthetic_hs": 0.431
+   },
+   "3.37": {
+    "synthetic_healthy": 0.993,
+    "synthetic_hs": 0.713
+   }
+  },
+  "cells_per_sample_for_power": 18,
+  "statistics": "two-proportion z-test, alpha=0.05, power=0.8",
+  "hypothesis": "At 3.12 µm, synthetic_healthy passes at 87% vs synthetic_hs at 43%, driven by surface-to-volume ratio alone.",
+  "falsified_if": "Measured pass fractions do not differ, or the difference disappears after osmotic swelling/shrinking controls.",
+  "caveats": [
+   "Model assumes cylindrical channels; rectangular microfluidic channels need an equivalent-diameter correction.",
+   "Stiffness is not modelled; rigid cells may fail where geometry allows passage."
+  ],
+  "provenance": "COMPUTED"
+ },
+ "limitations": [
+  "Sphericity is inferred from central pallor (linear map: pallor ratio 0.4 gives SI 0.74, no pallor gives SI 0.92); validated only on annotated data.",
+  "No mechanical simulation: capsule model in rigid cylindrical channels; stiffness is never predicted from images.",
+  "Synthetic samples and demo CBC values, not patient data."
+ ],
+ "number_guard": {
+  "checked": 59,
+  "unverified": 0
+ }
+}

@@ -1,0 +1,17 @@
+# Physics core (np.trapezoid needs numpy >= 2.0)
+numpy>=2.0
+scipy>=1.11
+matplotlib>=3.8
+# Vision (fallback path: Otsu + watershed, no GPU needed)
+scikit-image>=0.22
+opencv-python-headless>=4.9
+pillow>=10.0
+# API
+fastapi>=0.110
+uvicorn[standard]>=0.29
+# Agent
+anthropic>=0.40
+python-dotenv>=1.0
+# Tests
+pytest>=8.0
+httpx>=0.27

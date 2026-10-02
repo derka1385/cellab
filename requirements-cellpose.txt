@@ -1,0 +1,3 @@
+# Optional vision path A. Pulls PyTorch (~1 GB). Install only if the fallback is not good enough:
+#   pip install -r requirements-cellpose.txt && pip show cellpose
+cellpose>=4.0
